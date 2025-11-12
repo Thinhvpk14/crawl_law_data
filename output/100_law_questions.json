@@ -1,0 +1,3304 @@
+{
+  "questions": [
+    {
+      "question_id": "Q1",
+      "question": "So sánh định nghĩa trong Luật Đất đai 2013 và 2024 về: \"1\"?",
+      "intent": "definition",
+      "sub_intent": "compare_definition",
+      "category": [
+        "definition",
+        "term"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#3_1"
+        ],
+        "2024": [
+          "L2024_#3_1"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 1. Thửa đất là phần diện  tích đất được giới hạn bởi ranh giới xác định trên thực địa hoặc được mô tả  trên hồ sơ. LĐĐ 2024: 1. Bản đồ địa chính là bản  đồ thể hiện các thửa đất và các đối tượng địa lý có liên quan, lập theo đơn vị  hành chính cấp xã hoặc theo đơn vị hành chính cấp huyện nơi không thành lập đơn  vị hành chính cấp xã, được cơ quan nhà nước có thẩm quyền xác nhận.",
+      "difficulty": "easy",
+      "tags": [
+        "định nghĩa",
+        "giải thích từ ngữ"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "1."
+        ],
+        "must_cite": [
+          "L2013_#3_1",
+          "L2024_#3_1"
+        ]
+      }
+    },
+    {
+      "question_id": "Q2",
+      "question": "So sánh định nghĩa trong Luật Đất đai 2013 và 2024 về: \"2\"?",
+      "intent": "definition",
+      "sub_intent": "compare_definition",
+      "category": [
+        "definition",
+        "term"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#3_2"
+        ],
+        "2024": [
+          "L2024_#3_2"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 2. Quy hoạch sử dụng đất  là việc phân bổ và khoanh vùng đất đai theo không gian sử dụng cho các mục tiêu  phát triển kinh tế - xã hội, quốc phòng, an ninh, bảo vệ môi trường và thích ứng  biến đổi khí hậu trên cơ sở tiềm năng đất đai và nhu cầu sử dụng đất của các  ngành, lĩnh vực đối với từng vùng kinh tế - xã hội và đơn vị hành chính trong một  khoảng thời gian xác định. LĐĐ 2024: 2. Bản đồ hiện trạng sử dụng  đất là bản đồ thể hiện sự phân bố các loại đất tại một thời điểm xác định,  được lập theo từng đơn vị hành chính các cấp, theo từng vùng kinh tế - xã hội.",
+      "difficulty": "easy",
+      "tags": [
+        "định nghĩa",
+        "giải thích từ ngữ"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "2."
+        ],
+        "must_cite": [
+          "L2013_#3_2",
+          "L2024_#3_2"
+        ]
+      }
+    },
+    {
+      "question_id": "Q3",
+      "question": "So sánh định nghĩa trong Luật Đất đai 2013 và 2024 về: \"3\"?",
+      "intent": "definition",
+      "sub_intent": "compare_definition",
+      "category": [
+        "definition",
+        "term"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#3_3"
+        ],
+        "2024": [
+          "L2024_#3_3"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 3. Kế hoạch sử dụng đất  là việc phân chia quy hoạch sử dụng đất theo thời gian để thực hiện trong kỳ  quy hoạch sử dụng đất. LĐĐ 2024: 3. Bản đồ quy hoạch sử dụng đất  là bản đồ được lập tại thời điểm đầu kỳ quy hoạch, thể hiện nội dung phân bố  các loại đất tại thời điểm cuối kỳ quy hoạch của quy hoạch đó.",
+      "difficulty": "easy",
+      "tags": [
+        "định nghĩa",
+        "giải thích từ ngữ"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "3."
+        ],
+        "must_cite": [
+          "L2013_#3_3",
+          "L2024_#3_3"
+        ]
+      }
+    },
+    {
+      "question_id": "Q4",
+      "question": "So sánh định nghĩa trong Luật Đất đai 2013 và 2024 về: \"4\"?",
+      "intent": "definition",
+      "sub_intent": "compare_definition",
+      "category": [
+        "definition",
+        "term"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#3_4"
+        ],
+        "2024": [
+          "L2024_#3_4"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 4. Bản đồ địa chính là bản  đồ thể hiện các thửa đất và các yếu tố địa lý có liên quan, lập theo đơn vị  hành chính xã, phường, thị trấn, được cơ quan nhà nước có thẩm quyền xác nhận. LĐĐ 2024: 4. Bảo vệ, cải tạo, phục hồi  đất là việc áp dụng các biện pháp quản lý, kỹ thuật, cơ giới, sinh học, hữu  cơ tác động vào đất để xử lý đất bị ô nhiễm, phục hồi đất bị thoái hóa.",
+      "difficulty": "easy",
+      "tags": [
+        "định nghĩa",
+        "giải thích từ ngữ"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "4."
+        ],
+        "must_cite": [
+          "L2013_#3_4",
+          "L2024_#3_4"
+        ]
+      }
+    },
+    {
+      "question_id": "Q5",
+      "question": "So sánh định nghĩa trong Luật Đất đai 2013 và 2024 về: \"5\"?",
+      "intent": "definition",
+      "sub_intent": "compare_definition",
+      "category": [
+        "definition",
+        "term"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#3_5"
+        ],
+        "2024": [
+          "L2024_#3_5"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 5. Bản đồ hiện trạng sử dụng  đất là bản đồ thể hiện sự phân bố các loại đất tại một thời điểm xác định,  được lập theo từng đơn vị hành chính. LĐĐ 2024: 5. Bồi thường về đất là  việc Nhà nước trả lại giá trị quyền sử dụng đất của diện tích đất thu hồi cho  người có đất thu hồi.",
+      "difficulty": "easy",
+      "tags": [
+        "định nghĩa",
+        "giải thích từ ngữ"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "5."
+        ],
+        "must_cite": [
+          "L2013_#3_5",
+          "L2024_#3_5"
+        ]
+      }
+    },
+    {
+      "question_id": "Q6",
+      "question": "So sánh định nghĩa trong Luật Đất đai 2013 và 2024 về: \"6\"?",
+      "intent": "definition",
+      "sub_intent": "compare_definition",
+      "category": [
+        "definition",
+        "term"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#3_6"
+        ],
+        "2024": [
+          "L2024_#3_6"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 6. Bản đồ quy hoạch sử dụng  đất là bản đồ được lập tại thời điểm đầu kỳ quy hoạch, thể hiện sự phân bổ  các loại đất tại thời điểm cuối kỳ của quy hoạch đó. LĐĐ 2024: 6. Cá  nhân trực tiếp sản xuất nông nghiệp là cá nhân đã được Nhà nước giao đất,  cho thuê đất, công nhận quyền sử dụng đất nông nghiệp; nhận chuyển quyền sử dụng  đất nông nghiệp mà có thu nhập từ sản xuất nông nghiệp trên đất đó theo quy định  của Chính phủ.",
+      "difficulty": "easy",
+      "tags": [
+        "định nghĩa",
+        "giải thích từ ngữ"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "6."
+        ],
+        "must_cite": [
+          "L2013_#3_6",
+          "L2024_#3_6"
+        ]
+      }
+    },
+    {
+      "question_id": "Q7",
+      "question": "So sánh định nghĩa trong Luật Đất đai 2013 và 2024 về: \"7\"?",
+      "intent": "definition",
+      "sub_intent": "compare_definition",
+      "category": [
+        "definition",
+        "term"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#3_7"
+        ],
+        "2024": [
+          "L2024_#3_7"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 7. Nhà nước giao quyền sử dụng  đất (sau đây gọi là Nhà nước giao đất) là việc Nhà nước ban hành quyết định  giao đất để trao quyền sử dụng đất cho đối tượng có nhu cầu sử dụng đất. LĐĐ 2024: 7. Chi  phí đầu tư vào đất còn lại là chi phí hợp lý mà người sử dụng đất đã  đầu tư trực tiếp vào đất phù hợp với mục đích sử dụng đất nhưng đến thời điểm  Nhà nước thu hồi đất còn chưa thu hồi hết.",
+      "difficulty": "easy",
+      "tags": [
+        "định nghĩa",
+        "giải thích từ ngữ"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "7."
+        ],
+        "must_cite": [
+          "L2013_#3_7",
+          "L2024_#3_7"
+        ]
+      }
+    },
+    {
+      "question_id": "Q8",
+      "question": "So sánh định nghĩa trong Luật Đất đai 2013 và 2024 về: \"8\"?",
+      "intent": "definition",
+      "sub_intent": "compare_definition",
+      "category": [
+        "definition",
+        "term"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#3_8"
+        ],
+        "2024": [
+          "L2024_#3_8"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 8. Nhà nước cho thuê quyền sử  dụng đất (sau đây gọi là Nhà nước cho thuê đất) là việc Nhà nước quyết định  trao quyền sử dụng đất cho đối tượng có nhu cầu sử dụng đất thông qua hợp đồng  cho thuê quyền sử dụng đất. LĐĐ 2024: 8. Chỉ tiêu sử dụng đất là  diện tích đất của từng loại đất được xác định trong quy hoạch, kế hoạch sử dụng  đất các cấp do cơ quan nhà nước có thẩm quyền xác định để phân bổ trong quá  trình lập quy hoạch, kế hoạch sử dụng đất.",
+      "difficulty": "medium",
+      "tags": [
+        "định nghĩa",
+        "giải thích từ ngữ"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "8."
+        ],
+        "must_cite": [
+          "L2013_#3_8",
+          "L2024_#3_8"
+        ]
+      }
+    },
+    {
+      "question_id": "Q9",
+      "question": "So sánh định nghĩa trong Luật Đất đai 2013 và 2024 về: \"10\"?",
+      "intent": "definition",
+      "sub_intent": "compare_definition",
+      "category": [
+        "definition",
+        "term"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#3_10"
+        ],
+        "2024": [
+          "L2024_#3_10"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 10. Chuyển quyền sử dụng đất  là việc chuyển giao quyền sử dụng đất từ người này sang người khác thông qua  các hình thức chuyển đổi, chuyển nhượng, thừa kế, tặng cho quyền sử dụng đất và  góp vốn bằng quyền sử dụng đất. LĐĐ 2024: 10. Chủ đầu tư dự án đầu tư  có sử dụng đất (sau đây gọi là chủ đầu tư) là nhà đầu tư theo quy định của  pháp luật về đầu tư, pháp luật có liên quan đã được lựa chọn để thực hiện dự án  đầu tư có sử dụng đất và được giao đất, cho thuê đất, chuyển mục đích sử dụng đất  theo quy định của Luật này.",
+      "difficulty": "medium",
+      "tags": [
+        "định nghĩa",
+        "giải thích từ ngữ"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "10."
+        ],
+        "must_cite": [
+          "L2013_#3_10",
+          "L2024_#3_10"
+        ]
+      }
+    },
+    {
+      "question_id": "Q10",
+      "question": "So sánh định nghĩa trong Luật Đất đai 2013 và 2024 về: \"12\"?",
+      "intent": "definition",
+      "sub_intent": "compare_definition",
+      "category": [
+        "definition",
+        "term"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#3_12"
+        ],
+        "2024": [
+          "L2024_#3_12"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 12. Bồi thường về đất  là việc Nhà nước trả lại giá trị quyền sử dụng đất đối với diện tích đất thu hồi  cho người sử dụng đất. LĐĐ 2024: 12. Chuyển quyền sử dụng đất  là việc chuyển giao quyền sử dụng đất từ người này sang người khác  thông qua hình thức chuyển đổi, chuyển nhượng, thừa kế, tặng cho quyền sử dụng  đất, góp vốn bằng quyền sử dụng đất.",
+      "difficulty": "medium",
+      "tags": [
+        "định nghĩa",
+        "giải thích từ ngữ"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "12."
+        ],
+        "must_cite": [
+          "L2013_#3_12",
+          "L2024_#3_12"
+        ]
+      }
+    },
+    {
+      "question_id": "Q11",
+      "question": "So sánh định nghĩa trong Luật Đất đai 2013 và 2024 về: \"13\"?",
+      "intent": "definition",
+      "sub_intent": "compare_definition",
+      "category": [
+        "definition",
+        "term"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#3_13"
+        ],
+        "2024": [
+          "L2024_#3_13"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 13. Chi phí đầu tư vào đất  còn lại bao gồm chi phí san lấp mặt bằng và chi phí khác liên quan trực tiếp  có căn cứ chứng minh đã đầu tư vào đất mà đến thời điểm Nhà nước thu hồi đất  còn chưa thu hồi được. LĐĐ 2024: 13. Cộng đồng dân cư là cộng  đồng người Việt Nam sinh sống trên cùng địa bàn thôn, làng, ấp, bản, bon, buôn,  phum, sóc, tổ dân phố và điểm dân cư tương tự có cùng phong tục, tập quán hoặc  có chung dòng họ trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam.",
+      "difficulty": "medium",
+      "tags": [
+        "định nghĩa",
+        "giải thích từ ngữ"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "13."
+        ],
+        "must_cite": [
+          "L2013_#3_13",
+          "L2024_#3_13"
+        ]
+      }
+    },
+    {
+      "question_id": "Q12",
+      "question": "So sánh định nghĩa trong Luật Đất đai 2013 và 2024 về: \"14\"?",
+      "intent": "definition",
+      "sub_intent": "compare_definition",
+      "category": [
+        "definition",
+        "term"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#3_14"
+        ],
+        "2024": [
+          "L2024_#3_14"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 14. Hỗ trợ khi Nhà nước thu  hồi đất là việc Nhà nước trợ giúp cho người có đất thu hồi để ổn định đời sống,  sản xuất và phát triển. LĐĐ 2024: 14. Cơ sở dữ liệu quốc gia về  đất đai là tập hợp các cơ sở dữ liệu đất đai trong đó dữ liệu được sắp xếp,  tổ chức để truy cập, khai thác, chia sẻ, quản lý và cập nhật thông qua phương  tiện điện tử.",
+      "difficulty": "medium",
+      "tags": [
+        "định nghĩa",
+        "giải thích từ ngữ"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "14."
+        ],
+        "must_cite": [
+          "L2013_#3_14",
+          "L2024_#3_14"
+        ]
+      }
+    },
+    {
+      "question_id": "Q13",
+      "question": "So sánh định nghĩa trong Luật Đất đai 2013 và 2024 về: \"15\"?",
+      "intent": "definition",
+      "sub_intent": "compare_definition",
+      "category": [
+        "definition",
+        "term"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#3_15"
+        ],
+        "2024": [
+          "L2024_#3_15"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 15. Đăng ký đất đai, nhà ở,  tài sản khác gắn liền với đất là việc kê khai và ghi nhận tình trạng pháp  lý về quyền sử dụng đất, quyền sở hữu nhà ở, tài sản khác gắn liền với đất và  quyền quản lý đất đối với một thửa đất vào hồ sơ địa chính. LĐĐ 2024: 15. Đăng ký đất đai, tài sản  gắn liền với đất là việc người sử dụng đất, người sở hữu tài sản gắn liền với  đất, người được giao quản lý đất kê khai quyền sử dụng đất, quyền sở hữu tài sản  gắn liền với đất với cơ quan nhà nước có thẩm quyền để được ghi nhận theo quy định  của Luật này.",
+      "difficulty": "medium",
+      "tags": [
+        "định nghĩa",
+        "giải thích từ ngữ"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "15."
+        ],
+        "must_cite": [
+          "L2013_#3_15",
+          "L2024_#3_15"
+        ]
+      }
+    },
+    {
+      "question_id": "Q14",
+      "question": "So sánh định nghĩa trong Luật Đất đai 2013 và 2024 về: \"16\"?",
+      "intent": "definition",
+      "sub_intent": "compare_definition",
+      "category": [
+        "definition",
+        "term"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#3_16"
+        ],
+        "2024": [
+          "L2024_#3_16"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 16. Giấy chứng nhận quyền sử  dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất là chứng thư  pháp lý để Nhà nước xác nhận quyền sử dụng đất, quyền sở hữu nhà ở, tài sản  khác gắn liền với đất hợp pháp của người có quyền sử dụng đất, quyền sở hữu nhà  ở và quyền sở hữu tài sản khác gắn liền với đất. LĐĐ 2024: 16. Đất đang có tranh chấp là  thửa đất có tranh chấp đất đai mà đang trong quá trình được cơ quan có thẩm quyền  giải quyết.",
+      "difficulty": "medium",
+      "tags": [
+        "định nghĩa",
+        "giải thích từ ngữ"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "16."
+        ],
+        "must_cite": [
+          "L2013_#3_16",
+          "L2024_#3_16"
+        ]
+      }
+    },
+    {
+      "question_id": "Q15",
+      "question": "So sánh định nghĩa trong Luật Đất đai 2013 và 2024 về: \"17\"?",
+      "intent": "definition",
+      "sub_intent": "compare_definition",
+      "category": [
+        "definition",
+        "term"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#3_17"
+        ],
+        "2024": [
+          "L2024_#3_17"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 17. Thống kê đất đai là  việc Nhà nước tổng hợp, đánh giá trên hồ sơ địa chính về hiện trạng sử dụng đất  tại thời điểm thống kê và tình hình biến động đất đai giữa hai lần thống kê. LĐĐ 2024: 17. Điều chỉnh thời hạn sử dụng  đất là việc cơ quan nhà nước có thẩm quyền cho phép thay đổi thời hạn sử dụng  đất trong quá trình sử dụng đất.",
+      "difficulty": "medium",
+      "tags": [
+        "định nghĩa",
+        "giải thích từ ngữ"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "17."
+        ],
+        "must_cite": [
+          "L2013_#3_17",
+          "L2024_#3_17"
+        ]
+      }
+    },
+    {
+      "question_id": "Q16",
+      "question": "So sánh định nghĩa trong Luật Đất đai 2013 và 2024 về: \"18\"?",
+      "intent": "definition",
+      "sub_intent": "compare_definition",
+      "category": [
+        "definition",
+        "term"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#3_18"
+        ],
+        "2024": [
+          "L2024_#3_18"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 18. Kiểm kê đất đai là  việc Nhà nước tổ chức điều tra, tổng hợp, đánh giá trên hồ sơ địa chính và trên  thực địa về hiện trạng sử dụng đất tại thời điểm kiểm kê và tình hình biến động  đất đai giữa hai lần kiểm kê. LĐĐ 2024: 18. Gia hạn sử dụng đất  là việc cơ quan nhà nước có thẩm quyền cho phép tiếp tục sử dụng đất khi hết thời  hạn theo mục đích đang sử dụng theo quy định của Luật này.",
+      "difficulty": "hard",
+      "tags": [
+        "định nghĩa",
+        "giải thích từ ngữ"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "18."
+        ],
+        "must_cite": [
+          "L2013_#3_18",
+          "L2024_#3_18"
+        ]
+      }
+    },
+    {
+      "question_id": "Q17",
+      "question": "So sánh định nghĩa trong Luật Đất đai 2013 và 2024 về: \"19\"?",
+      "intent": "definition",
+      "sub_intent": "compare_definition",
+      "category": [
+        "definition",
+        "term"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#3_19"
+        ],
+        "2024": [
+          "L2024_#3_19"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 19. Giá đất là giá trị  của quyền sử dụng đất tính trên một đơn vị diện tích đất. LĐĐ 2024: 19. Giá đất là giá trị của  quyền sử dụng đất tính bằng tiền trên một đơn vị diện tích đất.",
+      "difficulty": "hard",
+      "tags": [
+        "định nghĩa",
+        "giải thích từ ngữ"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "19."
+        ],
+        "must_cite": [
+          "L2013_#3_19",
+          "L2024_#3_19"
+        ]
+      }
+    },
+    {
+      "question_id": "Q18",
+      "question": "So sánh định nghĩa trong Luật Đất đai 2013 và 2024 về: \"20\"?",
+      "intent": "definition",
+      "sub_intent": "compare_definition",
+      "category": [
+        "definition",
+        "term"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#3_20"
+        ],
+        "2024": [
+          "L2024_#3_20"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 20. Giá trị quyền sử dụng đất  là giá trị bằng tiền của quyền sử dụng đất đối với một diện tích đất xác định  trong thời hạn sử dụng đất xác định. LĐĐ 2024: 20. Giá trị quyền sử dụng đất  là giá trị bằng tiền của quyền sử dụng đất đối với một diện tích đất, loại đất  tại thời điểm được xác định với thời hạn sử dụng đã được xác định.",
+      "difficulty": "hard",
+      "tags": [
+        "định nghĩa",
+        "giải thích từ ngữ"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "20."
+        ],
+        "must_cite": [
+          "L2013_#3_20",
+          "L2024_#3_20"
+        ]
+      }
+    },
+    {
+      "question_id": "Q19",
+      "question": "So sánh định nghĩa trong Luật Đất đai 2013 và 2024 về: \"21\"?",
+      "intent": "definition",
+      "sub_intent": "compare_definition",
+      "category": [
+        "definition",
+        "term"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#3_21"
+        ],
+        "2024": [
+          "L2024_#3_21"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 21. Tiền sử dụng đất là  số tiền mà người sử dụng đất phải trả cho Nhà nước khi được Nhà nước giao đất  có thu tiền sử dụng đất, cho phép chuyển mục đích sử dụng đất, công nhận quyền  sử dụng đất. LĐĐ 2024: 21. Giấy  chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất là chứng  thư pháp lý để Nhà nước xác nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền  với đất hợp pháp của người có quyền sử dụng đất, quyền sở hữu tài sản gắn liền  với đất. Tài sản gắn liền với đất được cấp Giấy chứng nhận quyền sử dụng đất,  quyền sở hữu tài sản gắn liền với đất là nhà ở, công trình xây dựng gắn liền với  đất theo quy định của pháp luật. Giấy chứng nhận về quyền sử dụng đất, quyền  sở hữu nhà ở và tài sản khác gắn liền với đất theo quy định của các luật có  liên quan được thực hiện theo quy định của Luật này có giá trị pháp lý tương  đương như Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với  đất tại Luật này.",
+      "difficulty": "hard",
+      "tags": [
+        "định nghĩa",
+        "giải thích từ ngữ"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "21."
+        ],
+        "must_cite": [
+          "L2013_#3_21",
+          "L2024_#3_21"
+        ]
+      }
+    },
+    {
+      "question_id": "Q20",
+      "question": "So sánh định nghĩa trong Luật Đất đai 2013 và 2024 về: \"22\"?",
+      "intent": "definition",
+      "sub_intent": "compare_definition",
+      "category": [
+        "definition",
+        "term"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#3_22"
+        ],
+        "2024": [
+          "L2024_#3_22"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 22. Hệ thống thông tin đất  đai là hệ thống tổng hợp các yếu tố hạ tầng kỹ thuật công nghệ thông tin,  phần mềm, dữ liệu và quy trình, thủ tục được xây dựng để thu thập, lưu trữ, cập  nhật, xử lý, phân tích, tổng hợp và truy xuất thông tin đất đai. LĐĐ 2024: 22. Góp vốn bằng quyền sử dụng  đất là sự thỏa thuận giữa các bên về chuyển quyền sử dụng đất thông  qua việc góp quyền sử dụng đất để tạo thành vốn điều lệ của tổ chức kinh tế,  bao gồm góp vốn để thành lập tổ chức kinh tế hoặc góp thêm vốn điều lệ của tổ  chức kinh tế đã được thành lập.",
+      "difficulty": "hard",
+      "tags": [
+        "định nghĩa",
+        "giải thích từ ngữ"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "22."
+        ],
+        "must_cite": [
+          "L2013_#3_22",
+          "L2024_#3_22"
+        ]
+      }
+    },
+    {
+      "question_id": "Q21",
+      "question": "Nêu và so sánh nguyên tắc sử dụng đất theo khoản 1 giữa Luật Đất đai 2013 và 2024.",
+      "intent": "principle",
+      "sub_intent": "usage_principle",
+      "category": [
+        "principle"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#6_1"
+        ],
+        "2024": [
+          "L2024_#5_1"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013 (khoản 1): 1. Đúng quy hoạch, kế hoạch sử  dụng đất và đúng mục đích sử dụng đất. LĐĐ 2024 (khoản 1): 1. Đúng mục đích sử dụng đất.",
+      "difficulty": "easy",
+      "tags": [
+        "nguyên tắc",
+        "sử dụng đất"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "khoản 1",
+          "sử dụng đất"
+        ],
+        "must_cite": [
+          "L2013_#6_1",
+          "L2024_#5_1"
+        ]
+      }
+    },
+    {
+      "question_id": "Q22",
+      "question": "Nêu và so sánh nguyên tắc sử dụng đất theo khoản 2 giữa Luật Đất đai 2013 và 2024.",
+      "intent": "principle",
+      "sub_intent": "usage_principle",
+      "category": [
+        "principle"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#6_2"
+        ],
+        "2024": [
+          "L2024_#5_2"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013 (khoản 2): 2. Tiết kiệm, có hiệu quả, bảo  vệ môi trường và không làm tổn hại đến lợi ích chính đáng của người sử dụng đất  xung quanh. LĐĐ 2024 (khoản 2): 2. Bền vững, tiết kiệm, có hiệu  quả đối với đất đai và tài nguyên trên bề mặt, trong lòng đất.",
+      "difficulty": "easy",
+      "tags": [
+        "nguyên tắc",
+        "sử dụng đất"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "khoản 2",
+          "sử dụng đất"
+        ],
+        "must_cite": [
+          "L2013_#6_2",
+          "L2024_#5_2"
+        ]
+      }
+    },
+    {
+      "question_id": "Q23",
+      "question": "Nêu và so sánh nguyên tắc sử dụng đất theo khoản 3 giữa Luật Đất đai 2013 và 2024.",
+      "intent": "principle",
+      "sub_intent": "usage_principle",
+      "category": [
+        "principle"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#6_3"
+        ],
+        "2024": [
+          "L2024_#5_3"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013 (khoản 3): 3. Người sử dụng đất thực hiện  quyền, nghĩa vụ của mình trong thời hạn sử dụng đất theo quy định của Luật này  và quy định khác của pháp luật có liên quan. LĐĐ 2024 (khoản 3): 3. Bảo vệ đất, bảo vệ môi trường,  thích ứng với biến đổi khí hậu, không được lạm dụng thuốc bảo vệ thực vật, phân  hóa học làm ô nhiễm, thoái hóa đất.",
+      "difficulty": "easy",
+      "tags": [
+        "nguyên tắc",
+        "sử dụng đất"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "khoản 3",
+          "sử dụng đất"
+        ],
+        "must_cite": [
+          "L2013_#6_3",
+          "L2024_#5_3"
+        ]
+      }
+    },
+    {
+      "question_id": "Q24",
+      "question": "Theo Luật Đất đai 2013 và 2024, những nhóm đất được nêu ở khoản 1 là gì? So sánh sự khác nhau (nếu có).",
+      "intent": "classification",
+      "sub_intent": "land_classification",
+      "category": [
+        "classification"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#10_1"
+        ],
+        "2024": [
+          "L2024_#9_1"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013 (khoản 1): 1. Nhóm đất nông nghiệp bao gồm  các loại đất sau đây: LĐĐ 2024 (khoản 1): 1. Căn cứ vào mục đích sử dụng,  đất đai được phân loại bao gồm nhóm đất nông nghiệp, nhóm đất phi nông nghiệp,  nhóm đất chưa sử dụng.",
+      "difficulty": "easy",
+      "tags": [
+        "phân loại đất"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "nhóm đất",
+          "phân loại"
+        ],
+        "must_cite": [
+          "L2013_#10_1",
+          "L2024_#9_1"
+        ]
+      }
+    },
+    {
+      "question_id": "Q25",
+      "question": "Theo Luật Đất đai 2013 và 2024, những nhóm đất được nêu ở khoản 2 là gì? So sánh sự khác nhau (nếu có).",
+      "intent": "classification",
+      "sub_intent": "land_classification",
+      "category": [
+        "classification"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#10_2"
+        ],
+        "2024": [
+          "L2024_#9_2"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 2. Nhóm đất phi nông nghiệp bao  gồm các loại đất sau đây: LĐĐ 2024: 2. Nhóm đất  nông nghiệp bao gồm các loại đất sau đây:",
+      "difficulty": "easy",
+      "tags": [
+        "phân loại đất"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "nhóm đất",
+          "phân loại"
+        ],
+        "must_cite": [
+          "L2013_#10_2",
+          "L2024_#9_2"
+        ]
+      }
+    },
+    {
+      "question_id": "Q26",
+      "question": "Theo Luật Đất đai 2013 và 2024, những nhóm đất được nêu ở khoản 3 là gì? So sánh sự khác nhau (nếu có).",
+      "intent": "classification",
+      "sub_intent": "land_classification",
+      "category": [
+        "classification"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#10_3"
+        ],
+        "2024": [
+          "L2024_#9_3"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 3. Nhóm đất chưa sử dụng gồm  các loại đất chưa xác định mục đích sử dụng. LĐĐ 2024: 3. Nhóm đất  phi nông nghiệp bao gồm các loại đất sau đây:",
+      "difficulty": "easy",
+      "tags": [
+        "phân loại đất"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "nhóm đất",
+          "phân loại"
+        ],
+        "must_cite": [
+          "L2013_#10_3",
+          "L2024_#9_3"
+        ]
+      }
+    },
+    {
+      "question_id": "Q27",
+      "question": "Theo Luật Đất đai 2013 và 2024, những nhóm đất được nêu ở khoản 1 là gì? So sánh sự khác nhau (nếu có).",
+      "intent": "classification",
+      "sub_intent": "land_classification",
+      "category": [
+        "classification"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#10_1"
+        ],
+        "2024": [
+          "L2024_#9_1"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013 (khoản 1): 1. Nhóm đất nông nghiệp bao gồm  các loại đất sau đây: LĐĐ 2024 (khoản 1): 1. Căn cứ vào mục đích sử dụng,  đất đai được phân loại bao gồm nhóm đất nông nghiệp, nhóm đất phi nông nghiệp,  nhóm đất chưa sử dụng.",
+      "difficulty": "easy",
+      "tags": [
+        "phân loại đất"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "nhóm đất",
+          "phân loại"
+        ],
+        "must_cite": [
+          "L2013_#10_1",
+          "L2024_#9_1"
+        ]
+      }
+    },
+    {
+      "question_id": "Q28",
+      "question": "Theo Luật Đất đai 2013 và 2024, những nhóm đất được nêu ở khoản 2 là gì? So sánh sự khác nhau (nếu có).",
+      "intent": "classification",
+      "sub_intent": "land_classification",
+      "category": [
+        "classification"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#10_2"
+        ],
+        "2024": [
+          "L2024_#9_2"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 2. Nhóm đất phi nông nghiệp bao  gồm các loại đất sau đây: LĐĐ 2024: 2. Nhóm đất  nông nghiệp bao gồm các loại đất sau đây:",
+      "difficulty": "easy",
+      "tags": [
+        "phân loại đất"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "nhóm đất",
+          "phân loại"
+        ],
+        "must_cite": [
+          "L2013_#10_2",
+          "L2024_#9_2"
+        ]
+      }
+    },
+    {
+      "question_id": "Q29",
+      "question": "Theo Luật Đất đai 2013 và 2024, những nhóm đất được nêu ở khoản 3 là gì? So sánh sự khác nhau (nếu có).",
+      "intent": "classification",
+      "sub_intent": "land_classification",
+      "category": [
+        "classification"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#10_3"
+        ],
+        "2024": [
+          "L2024_#9_3"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 3. Nhóm đất chưa sử dụng gồm  các loại đất chưa xác định mục đích sử dụng. LĐĐ 2024: 3. Nhóm đất  phi nông nghiệp bao gồm các loại đất sau đây:",
+      "difficulty": "easy",
+      "tags": [
+        "phân loại đất"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "nhóm đất",
+          "phân loại"
+        ],
+        "must_cite": [
+          "L2013_#10_3",
+          "L2024_#9_3"
+        ]
+      }
+    },
+    {
+      "question_id": "Q30",
+      "question": "Theo Luật Đất đai 2013 và 2024, những nhóm đất được nêu ở khoản 1 là gì? So sánh sự khác nhau (nếu có).",
+      "intent": "classification",
+      "sub_intent": "land_classification",
+      "category": [
+        "classification"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#10_1"
+        ],
+        "2024": [
+          "L2024_#9_1"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013 (khoản 1): 1. Nhóm đất nông nghiệp bao gồm  các loại đất sau đây: LĐĐ 2024 (khoản 1): 1. Căn cứ vào mục đích sử dụng,  đất đai được phân loại bao gồm nhóm đất nông nghiệp, nhóm đất phi nông nghiệp,  nhóm đất chưa sử dụng.",
+      "difficulty": "medium",
+      "tags": [
+        "phân loại đất"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "nhóm đất",
+          "phân loại"
+        ],
+        "must_cite": [
+          "L2013_#10_1",
+          "L2024_#9_1"
+        ]
+      }
+    },
+    {
+      "question_id": "Q31",
+      "question": "Theo Luật Đất đai 2013 và 2024, những nhóm đất được nêu ở khoản 2 là gì? So sánh sự khác nhau (nếu có).",
+      "intent": "classification",
+      "sub_intent": "land_classification",
+      "category": [
+        "classification"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#10_2"
+        ],
+        "2024": [
+          "L2024_#9_2"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 2. Nhóm đất phi nông nghiệp bao  gồm các loại đất sau đây: LĐĐ 2024: 2. Nhóm đất  nông nghiệp bao gồm các loại đất sau đây:",
+      "difficulty": "medium",
+      "tags": [
+        "phân loại đất"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "nhóm đất",
+          "phân loại"
+        ],
+        "must_cite": [
+          "L2013_#10_2",
+          "L2024_#9_2"
+        ]
+      }
+    },
+    {
+      "question_id": "Q32",
+      "question": "Theo Luật Đất đai 2013 và 2024, những nhóm đất được nêu ở khoản 3 là gì? So sánh sự khác nhau (nếu có).",
+      "intent": "classification",
+      "sub_intent": "land_classification",
+      "category": [
+        "classification"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#10_3"
+        ],
+        "2024": [
+          "L2024_#9_3"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 3. Nhóm đất chưa sử dụng gồm  các loại đất chưa xác định mục đích sử dụng. LĐĐ 2024: 3. Nhóm đất  phi nông nghiệp bao gồm các loại đất sau đây:",
+      "difficulty": "medium",
+      "tags": [
+        "phân loại đất"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "nhóm đất",
+          "phân loại"
+        ],
+        "must_cite": [
+          "L2013_#10_3",
+          "L2024_#9_3"
+        ]
+      }
+    },
+    {
+      "question_id": "Q33",
+      "question": "Theo Luật Đất đai 2013 và 2024, những nhóm đất được nêu ở khoản 1 là gì? So sánh sự khác nhau (nếu có).",
+      "intent": "classification",
+      "sub_intent": "land_classification",
+      "category": [
+        "classification"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#10_1"
+        ],
+        "2024": [
+          "L2024_#9_1"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013 (khoản 1): 1. Nhóm đất nông nghiệp bao gồm  các loại đất sau đây: LĐĐ 2024 (khoản 1): 1. Căn cứ vào mục đích sử dụng,  đất đai được phân loại bao gồm nhóm đất nông nghiệp, nhóm đất phi nông nghiệp,  nhóm đất chưa sử dụng.",
+      "difficulty": "medium",
+      "tags": [
+        "phân loại đất"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "nhóm đất",
+          "phân loại"
+        ],
+        "must_cite": [
+          "L2013_#10_1",
+          "L2024_#9_1"
+        ]
+      }
+    },
+    {
+      "question_id": "Q34",
+      "question": "Theo Luật Đất đai 2013 và 2024, những nhóm đất được nêu ở khoản 2 là gì? So sánh sự khác nhau (nếu có).",
+      "intent": "classification",
+      "sub_intent": "land_classification",
+      "category": [
+        "classification"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#10_2"
+        ],
+        "2024": [
+          "L2024_#9_2"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 2. Nhóm đất phi nông nghiệp bao  gồm các loại đất sau đây: LĐĐ 2024: 2. Nhóm đất  nông nghiệp bao gồm các loại đất sau đây:",
+      "difficulty": "medium",
+      "tags": [
+        "phân loại đất"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "nhóm đất",
+          "phân loại"
+        ],
+        "must_cite": [
+          "L2013_#10_2",
+          "L2024_#9_2"
+        ]
+      }
+    },
+    {
+      "question_id": "Q35",
+      "question": "Theo Luật Đất đai 2013 và 2024, những nhóm đất được nêu ở khoản 3 là gì? So sánh sự khác nhau (nếu có).",
+      "intent": "classification",
+      "sub_intent": "land_classification",
+      "category": [
+        "classification"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#10_3"
+        ],
+        "2024": [
+          "L2024_#9_3"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 3. Nhóm đất chưa sử dụng gồm  các loại đất chưa xác định mục đích sử dụng. LĐĐ 2024: 3. Nhóm đất  phi nông nghiệp bao gồm các loại đất sau đây:",
+      "difficulty": "medium",
+      "tags": [
+        "phân loại đất"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "nhóm đất",
+          "phân loại"
+        ],
+        "must_cite": [
+          "L2013_#10_3",
+          "L2024_#9_3"
+        ]
+      }
+    },
+    {
+      "question_id": "Q36",
+      "question": "Theo Luật Đất đai 2013 và 2024, những nhóm đất được nêu ở khoản 1 là gì? So sánh sự khác nhau (nếu có).",
+      "intent": "classification",
+      "sub_intent": "land_classification",
+      "category": [
+        "classification"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#10_1"
+        ],
+        "2024": [
+          "L2024_#9_1"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013 (khoản 1): 1. Nhóm đất nông nghiệp bao gồm  các loại đất sau đây: LĐĐ 2024 (khoản 1): 1. Căn cứ vào mục đích sử dụng,  đất đai được phân loại bao gồm nhóm đất nông nghiệp, nhóm đất phi nông nghiệp,  nhóm đất chưa sử dụng.",
+      "difficulty": "medium",
+      "tags": [
+        "phân loại đất"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "nhóm đất",
+          "phân loại"
+        ],
+        "must_cite": [
+          "L2013_#10_1",
+          "L2024_#9_1"
+        ]
+      }
+    },
+    {
+      "question_id": "Q37",
+      "question": "Theo Luật Đất đai 2013 và 2024, những nhóm đất được nêu ở khoản 2 là gì? So sánh sự khác nhau (nếu có).",
+      "intent": "classification",
+      "sub_intent": "land_classification",
+      "category": [
+        "classification"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#10_2"
+        ],
+        "2024": [
+          "L2024_#9_2"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 2. Nhóm đất phi nông nghiệp bao  gồm các loại đất sau đây: LĐĐ 2024: 2. Nhóm đất  nông nghiệp bao gồm các loại đất sau đây:",
+      "difficulty": "medium",
+      "tags": [
+        "phân loại đất"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "nhóm đất",
+          "phân loại"
+        ],
+        "must_cite": [
+          "L2013_#10_2",
+          "L2024_#9_2"
+        ]
+      }
+    },
+    {
+      "question_id": "Q38",
+      "question": "Theo Luật Đất đai 2013 và 2024, những nhóm đất được nêu ở khoản 3 là gì? So sánh sự khác nhau (nếu có).",
+      "intent": "classification",
+      "sub_intent": "land_classification",
+      "category": [
+        "classification"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#10_3"
+        ],
+        "2024": [
+          "L2024_#9_3"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 3. Nhóm đất chưa sử dụng gồm  các loại đất chưa xác định mục đích sử dụng. LĐĐ 2024: 3. Nhóm đất  phi nông nghiệp bao gồm các loại đất sau đây:",
+      "difficulty": "hard",
+      "tags": [
+        "phân loại đất"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "nhóm đất",
+          "phân loại"
+        ],
+        "must_cite": [
+          "L2013_#10_3",
+          "L2024_#9_3"
+        ]
+      }
+    },
+    {
+      "question_id": "Q39",
+      "question": "Theo Luật Đất đai 2013 và 2024, những nhóm đất được nêu ở khoản 1 là gì? So sánh sự khác nhau (nếu có).",
+      "intent": "classification",
+      "sub_intent": "land_classification",
+      "category": [
+        "classification"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#10_1"
+        ],
+        "2024": [
+          "L2024_#9_1"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013 (khoản 1): 1. Nhóm đất nông nghiệp bao gồm  các loại đất sau đây: LĐĐ 2024 (khoản 1): 1. Căn cứ vào mục đích sử dụng,  đất đai được phân loại bao gồm nhóm đất nông nghiệp, nhóm đất phi nông nghiệp,  nhóm đất chưa sử dụng.",
+      "difficulty": "hard",
+      "tags": [
+        "phân loại đất"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "nhóm đất",
+          "phân loại"
+        ],
+        "must_cite": [
+          "L2013_#10_1",
+          "L2024_#9_1"
+        ]
+      }
+    },
+    {
+      "question_id": "Q40",
+      "question": "Theo Luật Đất đai 2013 và 2024, những nhóm đất được nêu ở khoản 2 là gì? So sánh sự khác nhau (nếu có).",
+      "intent": "classification",
+      "sub_intent": "land_classification",
+      "category": [
+        "classification"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#10_2"
+        ],
+        "2024": [
+          "L2024_#9_2"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 2. Nhóm đất phi nông nghiệp bao  gồm các loại đất sau đây: LĐĐ 2024: 2. Nhóm đất  nông nghiệp bao gồm các loại đất sau đây:",
+      "difficulty": "hard",
+      "tags": [
+        "phân loại đất"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "nhóm đất",
+          "phân loại"
+        ],
+        "must_cite": [
+          "L2013_#10_2",
+          "L2024_#9_2"
+        ]
+      }
+    },
+    {
+      "question_id": "Q41",
+      "question": "Theo Luật Đất đai 2013 và 2024, những nhóm đất được nêu ở khoản 3 là gì? So sánh sự khác nhau (nếu có).",
+      "intent": "classification",
+      "sub_intent": "land_classification",
+      "category": [
+        "classification"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#10_3"
+        ],
+        "2024": [
+          "L2024_#9_3"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 3. Nhóm đất chưa sử dụng gồm  các loại đất chưa xác định mục đích sử dụng. LĐĐ 2024: 3. Nhóm đất  phi nông nghiệp bao gồm các loại đất sau đây:",
+      "difficulty": "hard",
+      "tags": [
+        "phân loại đất"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "nhóm đất",
+          "phân loại"
+        ],
+        "must_cite": [
+          "L2013_#10_3",
+          "L2024_#9_3"
+        ]
+      }
+    },
+    {
+      "question_id": "Q42",
+      "question": "Theo Luật Đất đai 2013 và 2024, những nhóm đất được nêu ở khoản 1 là gì? So sánh sự khác nhau (nếu có).",
+      "intent": "classification",
+      "sub_intent": "land_classification",
+      "category": [
+        "classification"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#10_1"
+        ],
+        "2024": [
+          "L2024_#9_1"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013 (khoản 1): 1. Nhóm đất nông nghiệp bao gồm  các loại đất sau đây: LĐĐ 2024 (khoản 1): 1. Căn cứ vào mục đích sử dụng,  đất đai được phân loại bao gồm nhóm đất nông nghiệp, nhóm đất phi nông nghiệp,  nhóm đất chưa sử dụng.",
+      "difficulty": "hard",
+      "tags": [
+        "phân loại đất"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "nhóm đất",
+          "phân loại"
+        ],
+        "must_cite": [
+          "L2013_#10_1",
+          "L2024_#9_1"
+        ]
+      }
+    },
+    {
+      "question_id": "Q43",
+      "question": "Theo Luật Đất đai 2013 và 2024, những nhóm đất được nêu ở khoản 2 là gì? So sánh sự khác nhau (nếu có).",
+      "intent": "classification",
+      "sub_intent": "land_classification",
+      "category": [
+        "classification"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#10_2"
+        ],
+        "2024": [
+          "L2024_#9_2"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 2. Nhóm đất phi nông nghiệp bao  gồm các loại đất sau đây: LĐĐ 2024: 2. Nhóm đất  nông nghiệp bao gồm các loại đất sau đây:",
+      "difficulty": "hard",
+      "tags": [
+        "phân loại đất"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "nhóm đất",
+          "phân loại"
+        ],
+        "must_cite": [
+          "L2013_#10_2",
+          "L2024_#9_2"
+        ]
+      }
+    },
+    {
+      "question_id": "Q44",
+      "question": "Nêu hành vi bị nghiêm cấm theo khoản 1 trong Luật Đất đai 2013 và so sánh với quy định tương ứng trong Luật 2024.",
+      "intent": "prohibition_responsibility",
+      "sub_intent": "prohibited_actions",
+      "category": [
+        "prohibition",
+        "responsibility"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#12_1"
+        ],
+        "2024": [
+          "L2024_#11_1"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013 (khoản 1): 1. Lấn, chiếm, hủy hoại đất  đai. LĐĐ 2024 (khoản 1): 1. Lấn đất,  chiếm đất, hủy hoại đất.",
+      "difficulty": "easy",
+      "tags": [
+        "hành vi bị cấm",
+        "nghiêm cấm"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "nghiêm cấm",
+          "khoản 1"
+        ],
+        "must_cite": [
+          "L2013_#12_1",
+          "L2024_#11_1"
+        ]
+      }
+    },
+    {
+      "question_id": "Q45",
+      "question": "Nêu hành vi bị nghiêm cấm theo khoản 2 trong Luật Đất đai 2013 và so sánh với quy định tương ứng trong Luật 2024.",
+      "intent": "prohibition_responsibility",
+      "sub_intent": "prohibited_actions",
+      "category": [
+        "prohibition",
+        "responsibility"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#12_2"
+        ],
+        "2024": [
+          "L2024_#11_2"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013 (khoản 2): 2. Vi phạm quy hoạch, kế hoạch  sử dụng đất đã được công bố. LĐĐ 2024 (khoản 2): 2. Vi phạm quy định của pháp luật  về quản lý nhà nước về đất đai.",
+      "difficulty": "easy",
+      "tags": [
+        "hành vi bị cấm",
+        "nghiêm cấm"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "nghiêm cấm",
+          "khoản 2"
+        ],
+        "must_cite": [
+          "L2013_#12_2",
+          "L2024_#11_2"
+        ]
+      }
+    },
+    {
+      "question_id": "Q46",
+      "question": "Nêu hành vi bị nghiêm cấm theo khoản 3 trong Luật Đất đai 2013 và so sánh với quy định tương ứng trong Luật 2024.",
+      "intent": "prohibition_responsibility",
+      "sub_intent": "prohibited_actions",
+      "category": [
+        "prohibition",
+        "responsibility"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#12_3"
+        ],
+        "2024": [
+          "L2024_#11_3"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013 (khoản 3): 3. Không sử dụng đất, sử dụng  đất không đúng mục đích. LĐĐ 2024 (khoản 3): 3. Vi phạm chính sách về đất đai  đối với đồng bào dân tộc thiểu số.",
+      "difficulty": "easy",
+      "tags": [
+        "hành vi bị cấm",
+        "nghiêm cấm"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "nghiêm cấm",
+          "khoản 3"
+        ],
+        "must_cite": [
+          "L2013_#12_3",
+          "L2024_#11_3"
+        ]
+      }
+    },
+    {
+      "question_id": "Q47",
+      "question": "Nêu hành vi bị nghiêm cấm theo khoản 4 trong Luật Đất đai 2013 và so sánh với quy định tương ứng trong Luật 2024.",
+      "intent": "prohibition_responsibility",
+      "sub_intent": "prohibited_actions",
+      "category": [
+        "prohibition",
+        "responsibility"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#12_4"
+        ],
+        "2024": [
+          "L2024_#11_4"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013 (khoản 4): 4. Không thực hiện đúng quy định  của pháp luật khi thực hiện quyền của người sử dụng đất. LĐĐ 2024 (khoản 4): 4. Lợi dụng chức vụ, quyền hạn để  làm trái quy định của pháp luật về quản lý đất đai.",
+      "difficulty": "easy",
+      "tags": [
+        "hành vi bị cấm",
+        "nghiêm cấm"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "nghiêm cấm",
+          "khoản 4"
+        ],
+        "must_cite": [
+          "L2013_#12_4",
+          "L2024_#11_4"
+        ]
+      }
+    },
+    {
+      "question_id": "Q48",
+      "question": "Nêu hành vi bị nghiêm cấm theo khoản 5 trong Luật Đất đai 2013 và so sánh với quy định tương ứng trong Luật 2024.",
+      "intent": "prohibition_responsibility",
+      "sub_intent": "prohibited_actions",
+      "category": [
+        "prohibition",
+        "responsibility"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#12_5"
+        ],
+        "2024": [
+          "L2024_#11_5"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013 (khoản 5): 5. Nhận chuyển quyền sử dụng đất  nông nghiệp vượt hạn mức đối với hộ gia đình, cá nhân theo quy định của Luật  này. LĐĐ 2024 (khoản 5): 5. Không cung cấp thông tin hoặc  cung cấp thông tin đất đai không chính xác, không đáp ứng yêu cầu về thời hạn  theo quy định của pháp luật.",
+      "difficulty": "easy",
+      "tags": [
+        "hành vi bị cấm",
+        "nghiêm cấm"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "nghiêm cấm",
+          "khoản 5"
+        ],
+        "must_cite": [
+          "L2013_#12_5",
+          "L2024_#11_5"
+        ]
+      }
+    },
+    {
+      "question_id": "Q49",
+      "question": "Nêu hành vi bị nghiêm cấm theo khoản 6 trong Luật Đất đai 2013 và so sánh với quy định tương ứng trong Luật 2024.",
+      "intent": "prohibition_responsibility",
+      "sub_intent": "prohibited_actions",
+      "category": [
+        "prohibition",
+        "responsibility"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#12_6"
+        ],
+        "2024": [
+          "L2024_#11_6"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013 (khoản 6): 6. Sử dụng đất, thực hiện giao  dịch về quyền sử dụng đất mà không đăng ký với cơ quan nhà nước có thẩm quyền. LĐĐ 2024 (khoản 6): 6. Không ngăn chặn, không xử lý  hành vi vi phạm pháp luật về đất đai.",
+      "difficulty": "easy",
+      "tags": [
+        "hành vi bị cấm",
+        "nghiêm cấm"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "nghiêm cấm",
+          "khoản 6"
+        ],
+        "must_cite": [
+          "L2013_#12_6",
+          "L2024_#11_6"
+        ]
+      }
+    },
+    {
+      "question_id": "Q50",
+      "question": "Nêu hành vi bị nghiêm cấm theo khoản 7 trong Luật Đất đai 2013 và so sánh với quy định tương ứng trong Luật 2024.",
+      "intent": "prohibition_responsibility",
+      "sub_intent": "prohibited_actions",
+      "category": [
+        "prohibition",
+        "responsibility"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#12_7"
+        ],
+        "2024": [
+          "L2024_#11_7"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013 (khoản 7): 7. Không thực hiện hoặc thực  hiện không đầy đủ nghĩa vụ tài chính đối với Nhà nước. LĐĐ 2024 (khoản 7): 7. Không thực hiện đúng quy định  của pháp luật khi thực hiện quyền của người sử dụng đất.",
+      "difficulty": "medium",
+      "tags": [
+        "hành vi bị cấm",
+        "nghiêm cấm"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "nghiêm cấm",
+          "khoản 7"
+        ],
+        "must_cite": [
+          "L2013_#12_7",
+          "L2024_#11_7"
+        ]
+      }
+    },
+    {
+      "question_id": "Q51",
+      "question": "Nêu hành vi bị nghiêm cấm theo khoản 8 trong Luật Đất đai 2013 và so sánh với quy định tương ứng trong Luật 2024.",
+      "intent": "prohibition_responsibility",
+      "sub_intent": "prohibited_actions",
+      "category": [
+        "prohibition",
+        "responsibility"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#12_8"
+        ],
+        "2024": [
+          "L2024_#11_8"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013 (khoản 8): 8. Lợi dụng chức vụ, quyền hạn  để làm trái quy định về quản lý đất đai. LĐĐ 2024 (khoản 8): 8. Sử dụng đất, thực hiện giao dịch  về quyền sử dụng đất mà không đăng ký với cơ quan có thẩm quyền.",
+      "difficulty": "medium",
+      "tags": [
+        "hành vi bị cấm",
+        "nghiêm cấm"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "nghiêm cấm",
+          "khoản 8"
+        ],
+        "must_cite": [
+          "L2013_#12_8",
+          "L2024_#11_8"
+        ]
+      }
+    },
+    {
+      "question_id": "Q52",
+      "question": "Nêu hành vi bị nghiêm cấm theo khoản 9 trong Luật Đất đai 2013 và so sánh với quy định tương ứng trong Luật 2024.",
+      "intent": "prohibition_responsibility",
+      "sub_intent": "prohibited_actions",
+      "category": [
+        "prohibition",
+        "responsibility"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#12_9"
+        ],
+        "2024": [
+          "L2024_#11_9"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013 (khoản 9): 9. Không cung cấp hoặc cung cấp  thông tin về đất đai không chính xác theo quy định của pháp luật. LĐĐ 2024 (khoản 9): 9. Không thực hiện hoặc thực hiện  không đầy đủ nghĩa vụ tài chính đối với Nhà nước.",
+      "difficulty": "medium",
+      "tags": [
+        "hành vi bị cấm",
+        "nghiêm cấm"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "nghiêm cấm",
+          "khoản 9"
+        ],
+        "must_cite": [
+          "L2013_#12_9",
+          "L2024_#11_9"
+        ]
+      }
+    },
+    {
+      "question_id": "Q53",
+      "question": "Nêu hành vi bị nghiêm cấm theo khoản 10 trong Luật Đất đai 2013 và so sánh với quy định tương ứng trong Luật 2024.",
+      "intent": "prohibition_responsibility",
+      "sub_intent": "prohibited_actions",
+      "category": [
+        "prohibition",
+        "responsibility"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#12_10"
+        ],
+        "2024": [
+          "L2024_#11_10"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013 (khoản 10): 10. Cản trở, gây khó khăn đối  với việc thực hiện quyền của người sử dụng đất theo quy định của pháp luật. LĐĐ 2024 (khoản 10): 10. Cản trở, gây khó khăn đối với  việc sử dụng đất, việc thực hiện quyền của người sử dụng đất theo quy định của  pháp luật.",
+      "difficulty": "medium",
+      "tags": [
+        "hành vi bị cấm",
+        "nghiêm cấm"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "nghiêm cấm",
+          "khoản 10"
+        ],
+        "must_cite": [
+          "L2013_#12_10",
+          "L2024_#11_10"
+        ]
+      }
+    },
+    {
+      "question_id": "Q54",
+      "question": "Nêu hành vi bị nghiêm cấm theo khoản 1 trong Luật Đất đai 2013 và so sánh với quy định tương ứng trong Luật 2024.",
+      "intent": "prohibition_responsibility",
+      "sub_intent": "prohibited_actions",
+      "category": [
+        "prohibition",
+        "responsibility"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#12_1"
+        ],
+        "2024": [
+          "L2024_#11_1"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013 (khoản 1): 1. Lấn, chiếm, hủy hoại đất  đai. LĐĐ 2024 (khoản 1): 1. Lấn đất,  chiếm đất, hủy hoại đất.",
+      "difficulty": "medium",
+      "tags": [
+        "hành vi bị cấm",
+        "nghiêm cấm"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "nghiêm cấm",
+          "khoản 1"
+        ],
+        "must_cite": [
+          "L2013_#12_1",
+          "L2024_#11_1"
+        ]
+      }
+    },
+    {
+      "question_id": "Q55",
+      "question": "Nêu hành vi bị nghiêm cấm theo khoản 2 trong Luật Đất đai 2013 và so sánh với quy định tương ứng trong Luật 2024.",
+      "intent": "prohibition_responsibility",
+      "sub_intent": "prohibited_actions",
+      "category": [
+        "prohibition",
+        "responsibility"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#12_2"
+        ],
+        "2024": [
+          "L2024_#11_2"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013 (khoản 2): 2. Vi phạm quy hoạch, kế hoạch  sử dụng đất đã được công bố. LĐĐ 2024 (khoản 2): 2. Vi phạm quy định của pháp luật  về quản lý nhà nước về đất đai.",
+      "difficulty": "medium",
+      "tags": [
+        "hành vi bị cấm",
+        "nghiêm cấm"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "nghiêm cấm",
+          "khoản 2"
+        ],
+        "must_cite": [
+          "L2013_#12_2",
+          "L2024_#11_2"
+        ]
+      }
+    },
+    {
+      "question_id": "Q56",
+      "question": "Nêu hành vi bị nghiêm cấm theo khoản 3 trong Luật Đất đai 2013 và so sánh với quy định tương ứng trong Luật 2024.",
+      "intent": "prohibition_responsibility",
+      "sub_intent": "prohibited_actions",
+      "category": [
+        "prohibition",
+        "responsibility"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#12_3"
+        ],
+        "2024": [
+          "L2024_#11_3"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013 (khoản 3): 3. Không sử dụng đất, sử dụng  đất không đúng mục đích. LĐĐ 2024 (khoản 3): 3. Vi phạm chính sách về đất đai  đối với đồng bào dân tộc thiểu số.",
+      "difficulty": "medium",
+      "tags": [
+        "hành vi bị cấm",
+        "nghiêm cấm"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "nghiêm cấm",
+          "khoản 3"
+        ],
+        "must_cite": [
+          "L2013_#12_3",
+          "L2024_#11_3"
+        ]
+      }
+    },
+    {
+      "question_id": "Q57",
+      "question": "Nêu hành vi bị nghiêm cấm theo khoản 4 trong Luật Đất đai 2013 và so sánh với quy định tương ứng trong Luật 2024.",
+      "intent": "prohibition_responsibility",
+      "sub_intent": "prohibited_actions",
+      "category": [
+        "prohibition",
+        "responsibility"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#12_4"
+        ],
+        "2024": [
+          "L2024_#11_4"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013 (khoản 4): 4. Không thực hiện đúng quy định  của pháp luật khi thực hiện quyền của người sử dụng đất. LĐĐ 2024 (khoản 4): 4. Lợi dụng chức vụ, quyền hạn để  làm trái quy định của pháp luật về quản lý đất đai.",
+      "difficulty": "medium",
+      "tags": [
+        "hành vi bị cấm",
+        "nghiêm cấm"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "nghiêm cấm",
+          "khoản 4"
+        ],
+        "must_cite": [
+          "L2013_#12_4",
+          "L2024_#11_4"
+        ]
+      }
+    },
+    {
+      "question_id": "Q58",
+      "question": "Nêu hành vi bị nghiêm cấm theo khoản 5 trong Luật Đất đai 2013 và so sánh với quy định tương ứng trong Luật 2024.",
+      "intent": "prohibition_responsibility",
+      "sub_intent": "prohibited_actions",
+      "category": [
+        "prohibition",
+        "responsibility"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#12_5"
+        ],
+        "2024": [
+          "L2024_#11_5"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013 (khoản 5): 5. Nhận chuyển quyền sử dụng đất  nông nghiệp vượt hạn mức đối với hộ gia đình, cá nhân theo quy định của Luật  này. LĐĐ 2024 (khoản 5): 5. Không cung cấp thông tin hoặc  cung cấp thông tin đất đai không chính xác, không đáp ứng yêu cầu về thời hạn  theo quy định của pháp luật.",
+      "difficulty": "hard",
+      "tags": [
+        "hành vi bị cấm",
+        "nghiêm cấm"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "nghiêm cấm",
+          "khoản 5"
+        ],
+        "must_cite": [
+          "L2013_#12_5",
+          "L2024_#11_5"
+        ]
+      }
+    },
+    {
+      "question_id": "Q59",
+      "question": "Nêu hành vi bị nghiêm cấm theo khoản 6 trong Luật Đất đai 2013 và so sánh với quy định tương ứng trong Luật 2024.",
+      "intent": "prohibition_responsibility",
+      "sub_intent": "prohibited_actions",
+      "category": [
+        "prohibition",
+        "responsibility"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#12_6"
+        ],
+        "2024": [
+          "L2024_#11_6"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013 (khoản 6): 6. Sử dụng đất, thực hiện giao  dịch về quyền sử dụng đất mà không đăng ký với cơ quan nhà nước có thẩm quyền. LĐĐ 2024 (khoản 6): 6. Không ngăn chặn, không xử lý  hành vi vi phạm pháp luật về đất đai.",
+      "difficulty": "hard",
+      "tags": [
+        "hành vi bị cấm",
+        "nghiêm cấm"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "nghiêm cấm",
+          "khoản 6"
+        ],
+        "must_cite": [
+          "L2013_#12_6",
+          "L2024_#11_6"
+        ]
+      }
+    },
+    {
+      "question_id": "Q60",
+      "question": "Nêu hành vi bị nghiêm cấm theo khoản 7 trong Luật Đất đai 2013 và so sánh với quy định tương ứng trong Luật 2024.",
+      "intent": "prohibition_responsibility",
+      "sub_intent": "prohibited_actions",
+      "category": [
+        "prohibition",
+        "responsibility"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#12_7"
+        ],
+        "2024": [
+          "L2024_#11_7"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013 (khoản 7): 7. Không thực hiện hoặc thực  hiện không đầy đủ nghĩa vụ tài chính đối với Nhà nước. LĐĐ 2024 (khoản 7): 7. Không thực hiện đúng quy định  của pháp luật khi thực hiện quyền của người sử dụng đất.",
+      "difficulty": "hard",
+      "tags": [
+        "hành vi bị cấm",
+        "nghiêm cấm"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "nghiêm cấm",
+          "khoản 7"
+        ],
+        "must_cite": [
+          "L2013_#12_7",
+          "L2024_#11_7"
+        ]
+      }
+    },
+    {
+      "question_id": "Q61",
+      "question": "Nêu hành vi bị nghiêm cấm theo khoản 8 trong Luật Đất đai 2013 và so sánh với quy định tương ứng trong Luật 2024.",
+      "intent": "prohibition_responsibility",
+      "sub_intent": "prohibited_actions",
+      "category": [
+        "prohibition",
+        "responsibility"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#12_8"
+        ],
+        "2024": [
+          "L2024_#11_8"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013 (khoản 8): 8. Lợi dụng chức vụ, quyền hạn  để làm trái quy định về quản lý đất đai. LĐĐ 2024 (khoản 8): 8. Sử dụng đất, thực hiện giao dịch  về quyền sử dụng đất mà không đăng ký với cơ quan có thẩm quyền.",
+      "difficulty": "hard",
+      "tags": [
+        "hành vi bị cấm",
+        "nghiêm cấm"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "nghiêm cấm",
+          "khoản 8"
+        ],
+        "must_cite": [
+          "L2013_#12_8",
+          "L2024_#11_8"
+        ]
+      }
+    },
+    {
+      "question_id": "Q62",
+      "question": "Nêu hành vi bị nghiêm cấm theo khoản 9 trong Luật Đất đai 2013 và so sánh với quy định tương ứng trong Luật 2024.",
+      "intent": "prohibition_responsibility",
+      "sub_intent": "prohibited_actions",
+      "category": [
+        "prohibition",
+        "responsibility"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#12_9"
+        ],
+        "2024": [
+          "L2024_#11_9"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013 (khoản 9): 9. Không cung cấp hoặc cung cấp  thông tin về đất đai không chính xác theo quy định của pháp luật. LĐĐ 2024 (khoản 9): 9. Không thực hiện hoặc thực hiện  không đầy đủ nghĩa vụ tài chính đối với Nhà nước.",
+      "difficulty": "hard",
+      "tags": [
+        "hành vi bị cấm",
+        "nghiêm cấm"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "nghiêm cấm",
+          "khoản 9"
+        ],
+        "must_cite": [
+          "L2013_#12_9",
+          "L2024_#11_9"
+        ]
+      }
+    },
+    {
+      "question_id": "Q63",
+      "question": "Nêu hành vi bị nghiêm cấm theo khoản 10 trong Luật Đất đai 2013 và so sánh với quy định tương ứng trong Luật 2024.",
+      "intent": "prohibition_responsibility",
+      "sub_intent": "prohibited_actions",
+      "category": [
+        "prohibition",
+        "responsibility"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#12_10"
+        ],
+        "2024": [
+          "L2024_#11_10"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013 (khoản 10): 10. Cản trở, gây khó khăn đối  với việc thực hiện quyền của người sử dụng đất theo quy định của pháp luật. LĐĐ 2024 (khoản 10): 10. Cản trở, gây khó khăn đối với  việc sử dụng đất, việc thực hiện quyền của người sử dụng đất theo quy định của  pháp luật.",
+      "difficulty": "hard",
+      "tags": [
+        "hành vi bị cấm",
+        "nghiêm cấm"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "nghiêm cấm",
+          "khoản 10"
+        ],
+        "must_cite": [
+          "L2013_#12_10",
+          "L2024_#11_10"
+        ]
+      }
+    },
+    {
+      "question_id": "Q64",
+      "question": "So sánh nội dung 'Phạm vi điều chỉnh' giữa Luật Đất đai 2013 (Điều 1) và Luật Đất đai 2024 (Điều 1).",
+      "intent": "comparison",
+      "sub_intent": "general_comparison",
+      "category": [
+        "comparison"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#1"
+        ],
+        "2024": [
+          "L2024_#1"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013 (Điều 1): Luật này quy định về chế độ sở hữu đất đai, quyền hạn  và trách nhiệm của Nhà nước đại diện chủ sở hữu toàn dân về đất đai và thống nhất  quản lý về đất đai, chế độ quản lý và sử dụng đất đai, quyền và nghĩa vụ của  người sử dụng đất đối với đất đai thuộc lãnh thổ của nước Cộng hòa xã hội chủ  nghĩa Việt Nam. LĐĐ 2024 (Điều 1): Luật này quy định về chế độ sở hữu  đất đai, quyền hạn và trách nhiệm của Nhà nước đại diện chủ sở hữu toàn dân về  đất đai và thống nhất quản lý về đất đai, chế độ quản lý và sử dụng đất đai,  quyền và nghĩa vụ của công dân, người sử dụng đất đối với đất đai thuộc lãnh thổ  của nước Cộng hòa xã hội chủ nghĩa Việt Nam.",
+      "difficulty": "medium",
+      "tags": [
+        "so sánh",
+        "Phạm vi điều chỉnh"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "so sánh",
+          "Phạm vi điều chỉnh"
+        ],
+        "must_cite": [
+          "L2013_#1",
+          "L2024_#1"
+        ]
+      }
+    },
+    {
+      "question_id": "Q65",
+      "question": "So sánh nội dung 'Đối tượng áp dụng' giữa Luật Đất đai 2013 (Điều 2) và Luật Đất đai 2024 (Điều 2).",
+      "intent": "comparison",
+      "sub_intent": "general_comparison",
+      "category": [
+        "comparison"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#2"
+        ],
+        "2024": [
+          "L2024_#2"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 1. Cơ quan nhà nước thực hiện  quyền hạn và trách nhiệm đại diện chủ sở hữu toàn dân về đất đai, thực hiện nhiệm  vụ thống nhất quản lý nhà nước về đất đai. 2. Người sử dụng đất. 3. Các đối tượng khác có liên  quan đến việc quản lý, sử dụng đất. LĐĐ 2024: 1. Cơ quan nhà nước thực hiện  quyền hạn và trách nhiệm đại diện chủ sở hữu toàn dân về đất đai, thực hiện nhiệm  vụ thống nhất quản lý nhà nước về đất đai. 2. Người sử dụng đất. 3. Các đối tượng khác có liên  quan đến việc quản lý, sử dụng đất đai.",
+      "difficulty": "medium",
+      "tags": [
+        "so sánh",
+        "Đối tượng áp dụng"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "so sánh",
+          "Đối tượng áp dụng"
+        ],
+        "must_cite": [
+          "L2013_#2",
+          "L2024_#2"
+        ]
+      }
+    },
+    {
+      "question_id": "Q66",
+      "question": "So sánh nội dung 'Sở hữu đất đai' giữa Luật Đất đai 2013 (Điều 4) và Luật Đất đai 2024 (Điều 12).",
+      "intent": "comparison",
+      "sub_intent": "general_comparison",
+      "category": [
+        "comparison"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#4"
+        ],
+        "2024": [
+          "L2024_#12"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013 (Điều 4): Đất đai thuộc sở hữu toàn dân do Nhà nước đại diện  chủ sở hữu và thống nhất quản lý. Nhà nước trao quyền sử dụng đất cho người sử  dụng đất theo quy định của Luật này. LĐĐ 2024 (Điều 12): Đất đai thuộc sở hữu toàn dân do  Nhà nước đại diện chủ sở hữu và thống nhất quản lý. Nhà nước trao  quyền sử dụng đất cho người sử dụng đất theo quy định của Luật này.",
+      "difficulty": "medium",
+      "tags": [
+        "so sánh",
+        "Sở hữu đất đai"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "so sánh",
+          "Sở hữu đất đai"
+        ],
+        "must_cite": [
+          "L2013_#4",
+          "L2024_#12"
+        ]
+      }
+    },
+    {
+      "question_id": "Q67",
+      "question": "So sánh nội dung 'Người sử dụng đất' giữa Luật Đất đai 2013 (Điều 5) và Luật Đất đai 2024 (Điều 4).",
+      "intent": "comparison",
+      "sub_intent": "general_comparison",
+      "category": [
+        "comparison"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#5"
+        ],
+        "2024": [
+          "L2024_#4"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: Người sử dụng đất được Nhà nước giao đất, cho thuê  đất, công nhận quyền sử dụng đất, nhận chuyển quyền sử dụng đất theo quy định của  Luật này, bao gồm: LĐĐ 2024: Người sử dụng đất được Nhà nước  giao đất, cho thuê đất, công nhận quyền sử dụng đất; đang sử dụng đất ổn định,  đủ điều kiện cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền  với đất mà chưa được Nhà nước cấp Giấy chứng nhận quyền sử dụng đất, Giấy chứng  nhận quyền sở hữu nhà ở và quyền sử dụng đất ở, Giấy chứng nhận quyền sử dụng đất,  quyền sở hữu nhà ở và tài sản khác gắn liền với đất, Giấy chứng nhận quyền sử dụng  đất, quyền sở hữu tài sản gắn liền với đất; nhận quyền sử dụng đất; thuê lại đất  theo quy định của Luật này, bao gồm:",
+      "difficulty": "medium",
+      "tags": [
+        "so sánh",
+        "Người sử dụng đất"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "so sánh",
+          "Người sử dụng đất"
+        ],
+        "must_cite": [
+          "L2013_#5",
+          "L2024_#4"
+        ]
+      }
+    },
+    {
+      "question_id": "Q68",
+      "question": "So sánh nội dung 'Trách nhiệm quản lý đất' giữa Luật Đất đai 2013 (Điều 7) và Luật Đất đai 2024 (Điều 6).",
+      "intent": "comparison",
+      "sub_intent": "general_comparison",
+      "category": [
+        "comparison"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#7"
+        ],
+        "2024": [
+          "L2024_#6"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 1. Người đứng đầu của tổ chức,  tổ chức nước ngoài có chức năng ngoại giao, doanh nghiệp có vốn đầu tư nước ngoài  đối với việc sử dụng đất của tổ chức mình. 2. Chủ tịch Ủy ban nhân dân xã,  phường, thị trấn đối với việc sử dụng đất nông nghiệp vào mục đích công ích; đất  phi nông nghiệp đã giao cho Ủy ban nhân dân xã, phường, thị trấn (sau đây gọi  chung là Ủy ban nhân dân cấp xã) để sử dụng vào mục đích xây dựng trụ sở Ủy ban  nhân dân, các công trình công cộng phục vụ hoạt động văn hóa, giáo dục, y tế,  thể dục thể thao, vui chơi, giải trí, chợ, nghĩa trang, nghĩa địa và công trình  công cộng khác của địa phương. 3. Người đại diện cho cộng đồng  dân cư là trưởng thôn, làng, ấp, bản, buôn, phum, sóc, tổ dân phố hoặc người được  cộng đồng dân cư thỏa thuận cử ra đối với việc sử dụng đất đã giao, công nhận  cho cộng đồng dân cư. 4. Người đứng đầu cơ sở tôn  giáo đối với việc sử dụng đất đã giao cho cơ sở tôn giáo. 5. Chủ hộ gia đình đối với việc  sử dụng đất của hộ gia đình. 6. Cá nhân, người Việt Nam định  cư ở nước ngoài đối với việc sử dụng đất của mình. 7. Người có chung quyền sử dụng  đất hoặc người đại diện cho nhóm người có chung quyền sử dụng đất đối với việc  sử dụng đất đó. LĐĐ 2024: 1. Người đại diện  theo pháp luật của tổ chức trong nước, tổ chức kinh tế có vốn đầu tư nước  ngoài; người đứng đầu của tổ chức nước ngoài có chức năng ngoại giao đối với việc  sử dụng đất của tổ chức mình. 2. Chủ tịch Ủy ban  nhân dân cấp xã đối với việc sử dụng đất nông nghiệp vào mục đích công ích; đất  phi nông nghiệp đã giao cho Ủy ban nhân dân cấp xã để sử dụng vào mục đích xây  dựng trụ sở Ủy ban nhân dân, các công trình công cộng phục vụ hoạt động văn  hóa, giáo dục, y tế, thể dục, thể thao, vui chơi, giải trí, chợ, nghĩa trang và  công trình công cộng khác của xã, phường, thị trấn; đất tôn giáo, đất tín ngưỡng  chưa giao quản lý, sử dụng. 3. Người đại diện cho cộng đồng dân cư là trưởng thôn, làng, ấp, bản,  bon, buôn, phum, sóc, tổ dân phố và điểm dân cư tương tự hoặc người được cộng đồng  dân cư thỏa thuận cử ra. 4. Người đại diện  tổ chức tôn giáo, tổ chức tôn giáo trực thuộc đối với việc  sử dụng đất của tổ chức tôn giáo, tổ chức tôn giáo trực thuộc. 5. Cá nhân, người  gốc Việt Nam định cư ở nước ngoài đối với việc sử dụng đất của mình. 6. Người có chung  quyền sử dụng đất hoặc người đại diện cho nhóm người có chung quyền sử dụng đất  đối với việc sử dụng đất đó.",
+      "difficulty": "medium",
+      "tags": [
+        "so sánh",
+        "Trách nhiệm quản lý đất"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "so sánh",
+          "Trách nhiệm quản lý đất"
+        ],
+        "must_cite": [
+          "L2013_#7",
+          "L2024_#6"
+        ]
+      }
+    },
+    {
+      "question_id": "Q69",
+      "question": "So sánh nội dung 'Quản lý đất giao để quản lý' giữa Luật Đất đai 2013 (Điều 8) và Luật Đất đai 2024 (Điều 7).",
+      "intent": "comparison",
+      "sub_intent": "general_comparison",
+      "category": [
+        "comparison"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#8"
+        ],
+        "2024": [
+          "L2024_#7"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 1. Người đứng đầu của tổ chức  chịu trách nhiệm đối với việc quản lý đất trong các trường hợp sau đây: a) Tổ chức được giao quản lý  công trình công cộng, gồm công trình đường giao thông, cầu, cống, vỉa hè, hệ thống  cấp nước, hệ thống thoát nước, hệ thống công trình thủy lợi, đê, đập; quảng trường,  tượng đài, bia tưởng niệm; b) Tổ chức kinh tế được giao  quản lý diện tích đất để thực hiện dự án đầu tư theo hình thức xây dựng - chuyển  giao (BT) và các hình thức khác theo quy định của pháp luật về đầu tư; c) Tổ chức được giao quản lý đất  có mặt nước của các sông và đất có mặt nước chuyên dùng; d) Tổ chức được giao quản lý  quỹ đất đã thu hồi theo quyết định của cơ quan nhà nước có thẩm quyền. 2. Chủ tịch Ủy ban nhân dân cấp  xã chịu trách nhiệm đối với việc quản lý đất sử dụng vào mục đích công cộng được  giao để quản lý, đất chưa giao, đất chưa cho thuê tại địa phương. 3. Chủ tịch Ủy ban nhân dân tỉnh,  thành phố trực thuộc trung ương chịu trách nhiệm đối với việc quản lý đất chưa  sử dụng tại các đảo chưa có người ở thuộc địa phương. 4. Người đại diện cho cộng đồng  dân cư là người chịu trách nhiệm đối với đất được giao cho cộng đồng dân cư quản  lý. LĐĐ 2024: 1. Người đại diện  của tổ chức chịu trách nhiệm đối với việc quản lý đất trong các trường hợp sau  đây: a) Tổ chức trong  nước được giao quản lý công trình công cộng và hành lang bảo vệ an toàn các  công trình theo quy định của pháp luật; b) Tổ chức trong  nước được giao quản lý đất có mặt nước của các sông và đất có mặt nước chuyên  dùng; c) Tổ chức trong  nước được giao quản lý quỹ đất đã thu hồi theo quyết định của cơ quan nhà nước  có thẩm quyền; d) Tổ chức kinh tế được giao quản lý diện tích đất để thực hiện dự án đầu  tư theo quy định của pháp luật. 2. Chủ tịch Ủy ban nhân dân cấp xã, Chủ tịch Ủy ban nhân dân cấp huyện  nơi không thành lập đơn vị hành chính cấp xã chịu trách nhiệm đối với việc quản  lý đất sử dụng vào mục đích công cộng được giao quản lý, đất chưa giao, đất  chưa cho thuê tại địa phương. 3. Chủ tịch Ủy ban  nhân dân cấp tỉnh chịu trách nhiệm đối với việc quản lý đất chưa sử dụng tại  các đảo chưa giao cho đơn vị hành chính cấp huyện, cấp xã quản lý. 4. Người đại diện cho cộng đồng dân cư là người chịu trách nhiệm đối với  đất được giao cho cộng đồng dân cư quản lý.",
+      "difficulty": "medium",
+      "tags": [
+        "so sánh",
+        "Quản lý đất giao để quản lý"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "so sánh",
+          "Quản lý đất giao để quản lý"
+        ],
+        "must_cite": [
+          "L2013_#8",
+          "L2024_#7"
+        ]
+      }
+    },
+    {
+      "question_id": "Q70",
+      "question": "So sánh nội dung 'Khuyến khích đầu tư vào đất' giữa Luật Đất đai 2013 (Điều 9) và Luật Đất đai 2024 (Điều 8).",
+      "intent": "comparison",
+      "sub_intent": "general_comparison",
+      "category": [
+        "comparison"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#9"
+        ],
+        "2024": [
+          "L2024_#8"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: Nhà nước có chính sách khuyến khích người sử dụng đất  đầu tư lao động, vật tư tiền vốn và áp dụng thành tựu khoa học, công nghệ vào  các việc sau đây:",
+      "difficulty": "medium",
+      "tags": [
+        "so sánh",
+        "Khuyến khích đầu tư vào đất"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "so sánh",
+          "Khuyến khích đầu tư vào đất"
+        ],
+        "must_cite": [
+          "L2013_#9",
+          "L2024_#8"
+        ]
+      }
+    },
+    {
+      "question_id": "Q71",
+      "question": "So sánh nội dung 'Căn cứ xác định loại đất' giữa Luật Đất đai 2013 (Điều 11) và Luật Đất đai 2024 (Điều 10).",
+      "intent": "comparison",
+      "sub_intent": "general_comparison",
+      "category": [
+        "comparison"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#11"
+        ],
+        "2024": [
+          "L2024_#10"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: Việc xác định loại đất theo một trong các căn cứ sau  đây:",
+      "difficulty": "medium",
+      "tags": [
+        "so sánh",
+        "Căn cứ xác định loại đất"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "so sánh",
+          "Căn cứ xác định loại đất"
+        ],
+        "must_cite": [
+          "L2013_#11",
+          "L2024_#10"
+        ]
+      }
+    },
+    {
+      "question_id": "Q72",
+      "question": "So sánh nội dung 'Quyền của Nhà nước là đại diện chủ sở hữu' giữa Luật Đất đai 2013 (Điều 13) và Luật Đất đai 2024 (Điều 13).",
+      "intent": "comparison",
+      "sub_intent": "general_comparison",
+      "category": [
+        "comparison"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#13"
+        ],
+        "2024": [
+          "L2024_#13"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 1. Quyết định quy hoạch sử dụng  đất, kế hoạch sử dụng đất. 2. Quyết định mục đích sử dụng  đất. 3. Quy định hạn mức sử dụng đất,  thời hạn sử dụng đất. 4. Quyết định thu hồi đất,  trưng dụng đất. 5. Quyết định giá đất. 6. Quyết định trao quyền sử dụng  đất cho người sử dụng đất. 7. Quyết định chính sách tài  chính về đất đai. 8. Quy định quyền và nghĩa vụ  của người sử dụng đất. LĐĐ 2024: 1. Quyết định quy  hoạch sử dụng đất. 2. Quyết định mục  đích sử dụng đất thông qua quy hoạch sử dụng đất, kế hoạch sử dụng đất, giao đất,  cho thuê đất, công nhận quyền sử dụng đất và cho phép chuyển mục đích sử dụng đất. 3. Quy định hạn mức  sử dụng đất gồm hạn mức giao đất nông nghiệp, hạn mức giao đất ở, hạn mức công  nhận đất ở và hạn mức nhận chuyển quyền sử dụng đất nông nghiệp. 4. Quyết định thời  hạn sử dụng đất. 5. Quyết định thu  hồi đất. 6. Quyết định  trưng dụng đất. 7. Quyết định giao  đất không thu tiền sử dụng đất, giao đất có thu tiền sử dụng đất. 8. Quyết định cho  thuê đất thu tiền thuê đất hằng năm, cho thuê đất thu tiền thuê đất một lần cho  cả thời gian thuê. 9. Công nhận quyền  sử dụng đất. 10. Quy định  nguyên tắc, phương pháp định giá đất; ban hành bảng giá đất và quyết định  giá đất cụ thể. 11. Quyết định chính sách tài  chính về đất đai; điều tiết phần giá trị tăng thêm từ đất mà không do đầu tư của  người sử dụng đất mang lại. 12. Quy định quyền  và nghĩa vụ của người sử dụng đất phù hợp với hình thức giao đất, cho thuê đất,  công nhận quyền sử dụng đất, nguồn gốc sử dụng đất và nghĩa vụ tài chính của  người sử dụng đất.",
+      "difficulty": "medium",
+      "tags": [
+        "so sánh",
+        "Quyền của Nhà nước là đại diện chủ sở hữu"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "so sánh",
+          "Quyền của Nhà nước là đại diện chủ sở hữu"
+        ],
+        "must_cite": [
+          "L2013_#13",
+          "L2024_#13"
+        ]
+      }
+    },
+    {
+      "question_id": "Q73",
+      "question": "So sánh nội dung 'Phân loại đất (so sánh chi tiết)' giữa Luật Đất đai 2013 (Điều 10) và Luật Đất đai 2024 (Điều 9).",
+      "intent": "comparison",
+      "sub_intent": "general_comparison",
+      "category": [
+        "comparison"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#10"
+        ],
+        "2024": [
+          "L2024_#9"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: Căn cứ vào mục đích sử dụng, đất đai được phân loại  như sau:",
+      "difficulty": "medium",
+      "tags": [
+        "so sánh",
+        "Phân loại đất (so sánh chi tiết)"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "so sánh",
+          "Phân loại đất (so sánh chi tiết)"
+        ],
+        "must_cite": [
+          "L2013_#10",
+          "L2024_#9"
+        ]
+      }
+    },
+    {
+      "question_id": "Q74",
+      "question": "So sánh nội dung 'Bồi thường và hỗ trợ' giữa Luật Đất đai 2013 (Điều 14) và Luật Đất đai 2024 (Điều 14).",
+      "intent": "comparison",
+      "sub_intent": "general_comparison",
+      "category": [
+        "comparison"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#14"
+        ],
+        "2024": [
+          "L2024_#14"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: Nhà nước quyết định mục đích sử dụng đất thông qua  quy hoạch sử dụng đất, kế hoạch sử dụng đất và cho phép chuyển mục đích sử dụng  đất. LĐĐ 2024: Nhà nước thực hiện quyền đại diện  chủ sở hữu về đất đai theo thẩm quyền quy định của Luật này và luật khác có  liên quan thông qua các cơ quan sau đây:",
+      "difficulty": "hard",
+      "tags": [
+        "so sánh",
+        "Bồi thường và hỗ trợ"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "so sánh",
+          "Bồi thường và hỗ trợ"
+        ],
+        "must_cite": [
+          "L2013_#14",
+          "L2024_#14"
+        ]
+      }
+    },
+    {
+      "question_id": "Q75",
+      "question": "So sánh nội dung 'Đăng ký đất đai và giấy chứng nhận' giữa Luật Đất đai 2013 (Điều 15) và Luật Đất đai 2024 (Điều 15).",
+      "intent": "comparison",
+      "sub_intent": "general_comparison",
+      "category": [
+        "comparison"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#15"
+        ],
+        "2024": [
+          "L2024_#15"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 1. Nhà nước quy định hạn mức sử  dụng đất gồm hạn mức giao đất nông nghiệp, hạn mức giao đất ở, hạn mức công nhận  quyền sử dụng đất ở và hạn mức nhận chuyển quyền sử dụng đất nông nghiệp. 2. Nhà nước quy định thời hạn  sử dụng đất bằng các hình thức sau đây: a) Sử dụng đất ổn định lâu  dài; b) Sử dụng đất có thời hạn. LĐĐ 2024: 1. Có chính sách tạo điều kiện  cho người trực tiếp sản xuất nông nghiệp không có đất sản xuất do quá trình  chuyển đổi cơ cấu sử dụng đất và chuyển đổi cơ cấu kinh tế được đào tạo nghề,  chuyển đổi nghề và tìm kiếm việc làm. 2. Cấp Giấy chứng nhận quyền sử  dụng đất, quyền sở hữu tài sản gắn liền với đất cho người sử dụng đất khi có đủ  điều kiện theo quy định của pháp luật về đất đai. 3. Thực hiện bồi thường, hỗ trợ,  tái định cư theo quy định của pháp luật cho người có đất thu hồi khi Nhà nước  thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi  ích quốc gia, công cộng. 4. Tuyên truyền, phổ biến, hướng  dẫn, trợ giúp pháp lý theo quy định của pháp luật cho người sử dụng đất trong  việc thực hiện chính sách, pháp luật, thủ tục hành chính về đất đai, khai thác  thông tin trong cơ sở dữ liệu quốc gia về đất đai. 5. Giải quyết tranh chấp đất  đai; giải quyết khiếu nại, tố cáo về đất đai.",
+      "difficulty": "hard",
+      "tags": [
+        "so sánh",
+        "Đăng ký đất đai và giấy chứng nhận"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "so sánh",
+          "Đăng ký đất đai và giấy chứng nhận"
+        ],
+        "must_cite": [
+          "L2013_#15",
+          "L2024_#15"
+        ]
+      }
+    },
+    {
+      "question_id": "Q76",
+      "question": "So sánh nội dung 'Tiền sử dụng đất / tiền thuê đất' giữa Luật Đất đai 2013 (Điều 16) và Luật Đất đai 2024 (Điều 21).",
+      "intent": "comparison",
+      "sub_intent": "general_comparison",
+      "category": [
+        "comparison"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#16"
+        ],
+        "2024": [
+          "L2024_#21"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 1. Nhà nước quyết định thu hồi  đất trong các trường hợp sau đây: a) Thu hồi đất vì mục đích quốc  phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng; b) Thu hồi đất do vi phạm  pháp luật về đất đai; c) Thu hồi đất do chấm dứt việc  sử dụng đất theo pháp luật, tự nguyện trả lại đất, có nguy cơ đe dọa tính mạng  con người. 2. Nhà nước quyết định trưng dụng  đất trong trường hợp thật cần thiết để thực hiện nhiệm vụ quốc phòng, an ninh  hoặc trong tình trạng chiến tranh, tình trạng khẩn cấp, phòng, chống thiên tai. LĐĐ 2024: 1. Chính phủ thống nhất quản lý  nhà nước về đất đai trong phạm vi cả nước. 2. Thủ tướng Chính phủ thực hiện  nhiệm vụ quản lý nhà nước về đất đai theo quy định của Luật này. 3. Bộ Tài  nguyên và Môi trường là cơ quan đầu mối giúp Chính phủ, Thủ tướng Chính phủ thực  hiện quản lý nhà nước về đất đai. 4. Bộ, cơ quan ngang Bộ, trong  phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm giúp Chính phủ, Thủ tướng  Chính phủ trong quản lý nhà nước về đất đai. 5. Chính quyền địa phương các cấp  có trách nhiệm quản lý nhà nước về đất đai tại địa phương theo thẩm quyền quy định  của Luật này.",
+      "difficulty": "hard",
+      "tags": [
+        "so sánh",
+        "Tiền sử dụng đất / tiền thuê đất"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "so sánh",
+          "Tiền sử dụng đất / tiền thuê đất"
+        ],
+        "must_cite": [
+          "L2013_#16",
+          "L2024_#21"
+        ]
+      }
+    },
+    {
+      "question_id": "Q77",
+      "question": "So sánh nội dung 'Quy hoạch sử dụng đất/Chỉ tiêu sử dụng đất' giữa Luật Đất đai 2013 (Điều 17) và Luật Đất đai 2024 (Điều 36).",
+      "intent": "comparison",
+      "sub_intent": "general_comparison",
+      "category": [
+        "comparison"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#17"
+        ],
+        "2024": [
+          "L2024_#36"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: Nhà nước trao quyền sử dụng đất cho người sử dụng đất  thông qua các hình thức sau đây:",
+      "difficulty": "hard",
+      "tags": [
+        "so sánh",
+        "Quy hoạch sử dụng đất/Chỉ tiêu sử dụng đất"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "so sánh",
+          "Quy hoạch sử dụng đất/Chỉ tiêu sử dụng đất"
+        ],
+        "must_cite": [
+          "L2013_#17",
+          "L2024_#36"
+        ]
+      }
+    },
+    {
+      "question_id": "Q78",
+      "question": "So sánh nội dung 'Chuyển quyền sử dụng đất' giữa Luật Đất đai 2013 (Điều 18) và Luật Đất đai 2024 (Điều 37).",
+      "intent": "comparison",
+      "sub_intent": "general_comparison",
+      "category": [
+        "comparison"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#18"
+        ],
+        "2024": [
+          "L2024_#37"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 1. Nhà nước quy định nguyên tắc,  phương pháp định giá đất. 2. Nhà nước ban hành khung giá  đất, bảng giá đất và quyết định giá đất cụ thể. LĐĐ 2024: 1. Cá nhân sử dụng đất nông nghiệp  được Nhà nước giao trong hạn mức; đất được Nhà nước giao có thu tiền sử dụng đất,  cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê, được Nhà nước  công nhận quyền sử dụng đất; đất nhận chuyển đổi, nhận chuyển nhượng, nhận tặng  cho, nhận thừa kế thì có các quyền và nghĩa vụ sau đây: a) Quyền và nghĩa vụ chung quy định  tại Điều 26 và Điều 31 của Luật này; b) Chuyển đổi quyền sử dụng đất  nông nghiệp với cá nhân khác; c) Chuyển nhượng quyền sử dụng đất,  tài sản thuộc sở hữu của mình gắn liền với đất theo quy định của pháp luật; d) Cho tổ chức, cá nhân khác,  người gốc Việt Nam định cư ở nước ngoài đầu tư tại Việt Nam thuê quyền sử dụng  đất, tài sản thuộc sở hữu của mình gắn liền với đất; e) Tặng cho quyền sử dụng đất  cho Nhà nước; tặng cho quyền sử dụng đất cho cộng đồng dân cư để xây dựng các  công trình phục vụ lợi ích chung của cộng đồng hoặc mở rộng đường giao thông  theo quy hoạch; tặng cho quyền sử dụng đất để làm nhà tình nghĩa, nhà tình  thương, nhà đại đoàn kết gắn liền với đất theo quy định của pháp luật; tặng cho  quyền sử dụng đất, tài sản thuộc sở hữu của mình gắn liền với đất đối với cá  nhân hoặc người gốc Việt Nam định cư ở nước ngoài thuộc đối tượng quy định tại khoản 1 Điều 44 của Luật này; g) Thế chấp quyền sử dụng đất,  tài sản thuộc sở hữu của mình gắn liền với đất tại tổ chức tín dụng được phép  hoạt động tại Việt Nam, tại tổ chức kinh tế khác hoặc cá nhân theo quy định của  pháp luật; h) Góp vốn bằng quyền sử dụng đất,  tài sản thuộc sở hữu của mình gắn liền với đất với tổ chức, góp quyền sử dụng đất  với cá nhân, người gốc Việt Nam định cư ở nước ngoài để hợp tác sản xuất, kinh  doanh. 2. Cá nhân được Nhà nước cho  thuê đất thu tiền thuê đất hằng năm có các quyền và nghĩa vụ sau đây: a) Quyền và nghĩa vụ chung quy định  tại Điều 26 và Điều 31 của Luật này; b) Bán tài sản thuộc sở hữu của  mình gắn liền với đất, bán tài sản thuộc sở hữu của mình gắn liền với đất và  quyền thuê trong hợp đồng thuê đất khi đáp ứng điều kiện quy định tại Điều 46 của Luật này. Người mua tài sản gắn liền với đất và  quyền thuê trong hợp đồng thuê đất được tiếp tục thuê đất theo mục đích đã được  xác định và thời hạn sử dụng đất còn lại theo mục đích đã được xác định; được kế  thừa các quyền và nghĩa vụ của người sử dụng đất theo quy định của Luật này và  pháp luật có liên quan; c) Để thừa kế, tặng cho tài sản  thuộc sở hữu của mình gắn liền với đất và quyền thuê trong hợp đồng thuê đất;  người nhận thừa kế, người được tặng cho tài sản và quyền thuê trong hợp đồng  thuê đất được Nhà nước tiếp tục cho thuê đất theo mục đích đã được xác định; d) Cho thuê tài sản thuộc sở hữu  của mình gắn liền với đất, cho thuê lại quyền thuê trong hợp đồng thuê đất; e) Góp vốn bằng tài sản thuộc sở  hữu của mình gắn liền với đất trong thời hạn thuê đất với tổ chức, cá nhân, người  gốc Việt Nam định cư ở nước ngoài; người nhận góp vốn bằng tài sản được Nhà nước  tiếp tục cho thuê đất theo mục đích đã được xác định trong thời hạn còn lại. 3. Cá nhân thuê lại đất trong  khu công nghiệp, cụm công nghiệp, khu công nghệ cao thì có các quyền và nghĩa vụ  sau đây: a) Trường hợp thuê đất, thuê lại  đất trả tiền thuê đất một lần cho cả thời gian thuê thì có quyền và nghĩa vụ  quy định tại khoản 1 Điều này; b) Trường hợp thuê đất, thuê lại  đất trả tiền thuê đất hằng năm thì có quyền và nghĩa vụ quy định tại khoản 2 Điều  này. 4. Cá nhân được Nhà nước giao đất,  cho thuê đất mà được miễn, giảm tiền sử dụng đất, tiền thuê đất thì có quyền và  nghĩa vụ như trường hợp không được miễn, không được giảm tiền sử dụng đất, tiền  thuê đất. 5. Cá nhân sử dụng đất thuê của  tổ chức, cá nhân không thuộc trường hợp quy định tại khoản 3 Điều này thì có  quyền và nghĩa vụ theo quy định của pháp luật về dân sự.",
+      "difficulty": "hard",
+      "tags": [
+        "so sánh",
+        "Chuyển quyền sử dụng đất"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "so sánh",
+          "Chuyển quyền sử dụng đất"
+        ],
+        "must_cite": [
+          "L2013_#18",
+          "L2024_#37"
+        ]
+      }
+    },
+    {
+      "question_id": "Q79",
+      "question": "So sánh nội dung 'Sử dụng đất ổn định và tái định cư' giữa Luật Đất đai 2013 (Điều 19) và Luật Đất đai 2024 (Điều 38).",
+      "intent": "comparison",
+      "sub_intent": "general_comparison",
+      "category": [
+        "comparison"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#19"
+        ],
+        "2024": [
+          "L2024_#38"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 1. Nhà nước quyết định chính  sách thu, chi tài chính về đất đai. 2. Nhà nước điều tiết phần giá  trị tăng thêm từ đất mà không do đầu tư của người sử dụng đất mang lại thông  qua chính sách thuế, tiền sử dụng đất, tiền thuê đất, đầu tư cơ sở hạ tầng và  chính sách hỗ trợ cho người có đất thu hồi. LĐĐ 2024: 1. Cá nhân được phép chuyển mục  đích sử dụng đất từ đất được Nhà nước giao đất không thu tiền sử dụng đất sang  đất được Nhà nước giao đất có thu tiền sử dụng đất hoặc Nhà nước cho thuê đất  có quyền và nghĩa vụ chung quy định tại Điều 26 và Điều 31 của  Luật này. 2. Cá nhân sử dụng đất được cơ  quan nhà nước có thẩm quyền cho phép chuyển mục đích sử dụng đất từ đất được  Nhà nước giao đất không thu tiền sử dụng đất sang đất được Nhà nước giao đất có  thu tiền sử dụng đất hoặc Nhà nước cho thuê đất có quyền và nghĩa vụ như sau: a) Trường hợp được Nhà nước giao  đất có thu tiền sử dụng đất hoặc cho thuê đất thu tiền thuê đất một lần cho cả  thời gian thuê thì có quyền và nghĩa vụ quy định tại khoản 1 Điều  37 của Luật này; b) Trường hợp được Nhà nước cho  thuê đất thu tiền thuê đất hằng năm thì có quyền và nghĩa vụ quy định tại khoản 2 Điều 37 của Luật này.",
+      "difficulty": "hard",
+      "tags": [
+        "so sánh",
+        "Sử dụng đất ổn định và tái định cư"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "so sánh",
+          "Sử dụng đất ổn định và tái định cư"
+        ],
+        "must_cite": [
+          "L2013_#19",
+          "L2024_#38"
+        ]
+      }
+    },
+    {
+      "question_id": "Q80",
+      "question": "So sánh nội dung 'Các khái niệm về tái định cư' giữa Luật Đất đai 2013 (Điều 20) và Luật Đất đai 2024 (Điều 39).",
+      "intent": "comparison",
+      "sub_intent": "general_comparison",
+      "category": [
+        "comparison"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#20"
+        ],
+        "2024": [
+          "L2024_#39"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: Nhà nước quy định quyền và nghĩa vụ của người sử dụng  đất phù hợp với hình thức giao đất, cho thuê đất, công nhận quyền sử dụng đất,  nguồn gốc sử dụng đất và nghĩa vụ tài chính của người sử dụng đất.",
+      "difficulty": "hard",
+      "tags": [
+        "so sánh",
+        "Các khái niệm về tái định cư"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "so sánh",
+          "Các khái niệm về tái định cư"
+        ],
+        "must_cite": [
+          "L2013_#20",
+          "L2024_#39"
+        ]
+      }
+    },
+    {
+      "question_id": "Q81",
+      "question": "So sánh nội dung 'Hủy hoại đất / thoái hóa đất' giữa Luật Đất đai 2013 (Điều 21) và Luật Đất đai 2024 (Điều 40).",
+      "intent": "comparison",
+      "sub_intent": "general_comparison",
+      "category": [
+        "comparison"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#21"
+        ],
+        "2024": [
+          "L2024_#40"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 1. Quốc hội ban hành luật, nghị  quyết về đất đai; quyết định quy hoạch, kế hoạch sử dụng đất cấp quốc gia; thực hiện quyền giám  sát tối cao đối với việc quản lý và sử dụng đất đai trong phạm vi cả nước. 2. Hội đồng nhân dân các cấp  thực hiện quyền thông qua quy hoạch, kế hoạch sử dụng đất của địa phương mình  trước khi trình cơ quan có thẩm quyền phê duyệt; thông qua bảng giá đất, việc  thu hồi đất thực hiện các dự án phát triển kinh tế - xã hội vì lợi ích quốc  gia, công cộng của địa phương theo thẩm quyền quy định tại Luật này; giám sát  việc thi hành pháp luật về đất đai tại địa phương. 3. Chính phủ, Ủy ban nhân dân  các cấp thực hiện quyền đại diện chủ sở hữu về đất đai theo thẩm quyền quy định  tại Luật này. LĐĐ 2024: 1. Tổ chức nước ngoài có chức  năng ngoại giao sử dụng đất tại Việt Nam có các quyền và nghĩa vụ sau đây: a) Quyền và nghĩa vụ chung quy định  tại Điều 26 và Điều 31 của Luật này; b) Xây dựng các công trình trên  đất theo giấy phép của cơ quan nhà nước Việt Nam có thẩm quyền; c) Sở hữu công trình do mình xây  dựng trên đất thuê trong thời hạn thuê đất; d) Việc trả lại đất, chuyển quyền  sử dụng đất của tổ chức nước ngoài có chức năng ngoại giao khi không còn nhu cầu  sử dụng vào mục đích đã được thuê đất thì thực hiện theo điều ước quốc tế, thỏa  thuận quốc tế và quy định của pháp luật. 2. Trường hợp điều ước quốc tế  mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định  khác thì tổ chức nước ngoài có chức năng ngoại giao có quyền và nghĩa vụ theo  điều ước quốc tế đó.",
+      "difficulty": "hard",
+      "tags": [
+        "so sánh",
+        "Hủy hoại đất / thoái hóa đất"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "so sánh",
+          "Hủy hoại đất / thoái hóa đất"
+        ],
+        "must_cite": [
+          "L2013_#21",
+          "L2024_#40"
+        ]
+      }
+    },
+    {
+      "question_id": "Q82",
+      "question": "So sánh nội dung 'Thống kê, kiểm kê đất đai' giữa Luật Đất đai 2013 (Điều 22) và Luật Đất đai 2024 (Điều 41).",
+      "intent": "comparison",
+      "sub_intent": "general_comparison",
+      "category": [
+        "comparison"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#22"
+        ],
+        "2024": [
+          "L2024_#41"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 1. Ban hành văn bản quy phạm  pháp luật về quản lý, sử dụng đất đai và tổ chức thực hiện văn bản đó. 2. Xác định địa giới hành  chính, lập và quản lý hồ sơ địa giới hành chính, lập bản đồ hành chính. 3. Khảo sát, đo đạc, lập bản đồ  địa chính, bản đồ hiện trạng sử dụng đất và bản đồ quy hoạch sử dụng đất; điều  tra, đánh giá tài nguyên đất; điều tra xây dựng giá đất. 4. Quản lý quy hoạch, kế hoạch  sử dụng đất. 5. Quản lý việc giao đất, cho  thuê đất, thu hồi đất, chuyển mục đích sử dụng đất. 6. Quản lý việc bồi thường, hỗ  trợ, tái định cư khi thu hồi đất. 7. Đăng ký đất đai, lập và quản  lý hồ sơ địa chính, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở  và tài sản khác gắn liền với đất. 8. Thống kê, kiểm kê đất đai. 9. Xây dựng hệ thống thông tin  đất đai. 10. Quản lý tài chính về đất  đai và giá đất. 11. Quản lý, giám sát việc thực  hiện quyền và nghĩa vụ của người sử dụng đất. 12. Thanh tra, kiểm tra, giám  sát, theo dõi, đánh giá việc chấp hành quy định của pháp luật về đất đai và xử  lý vi phạm pháp luật về đất đai. 13. Phổ biến, giáo dục pháp  luật về đất đai. 14. Giải quyết tranh chấp về  đất đai; giải quyết khiếu nại, tố cáo trong quản lý và sử dụng đất đai. 15. Quản lý hoạt động dịch vụ  về đất đai. LĐĐ 2024: 1. Người gốc Việt Nam định cư ở  nước ngoài về đầu tư tại Việt Nam được Nhà nước giao đất có thu tiền sử dụng đất  có các quyền và nghĩa vụ quy định tại khoản 1 Điều 33 của Luật  này. 2. Người gốc Việt Nam định cư ở  nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài được Nhà nước cho thuê đất  thu tiền thuê đất hằng năm có các quyền và nghĩa vụ sau đây: a) Quyền và nghĩa vụ chung quy định  tại Điều 26 và Điều 31 của Luật này; b) Thế chấp tài sản thuộc sở hữu  của mình gắn liền với đất tại các tổ chức tín dụng được phép hoạt động tại Việt  Nam; c) Góp vốn bằng tài sản thuộc sở  hữu của mình gắn liền với đất trong thời hạn thuê đất; người nhận góp vốn bằng  tài sản được Nhà nước tiếp tục cho thuê đất theo đúng mục đích đã được xác định  trong thời hạn còn lại; d) Bán tài sản thuộc sở hữu của  mình gắn liền với đất, bán tài sản thuộc sở hữu của mình gắn liền với đất và  quyền thuê trong hợp đồng thuê đất khi đáp ứng điều kiện quy định tại Điều 46 của Luật này. Người mua tài sản gắn liền với đất và  quyền thuê trong hợp đồng thuê đất được tiếp tục thuê đất theo mục đích đã được  xác định và thời hạn sử dụng đất còn lại, có các quyền và nghĩa vụ của người sử  dụng đất theo quy định của Luật này và pháp luật có liên quan; e) Cho thuê lại quyền sử dụng đất  theo hình thức trả tiền thuê đất hằng năm đối với đất đã được xây dựng xong kết  cấu hạ tầng trong trường hợp được phép đầu tư xây dựng kinh doanh kết cấu hạ tầng  đối với đất khu công nghiệp, cụm công nghiệp, khu công nghệ cao; người thuê lại  quyền sử dụng đất phải sử dụng đất đúng mục đích và thực hiện nghĩa vụ tài  chính theo quy định. 3. Người gốc  Việt Nam định cư ở nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài được  Nhà nước cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê; tổ chức  kinh tế có vốn đầu tư nước ngoài được Nhà nước giao đất có thu tiền sử dụng đất  để thực hiện dự án có các quyền và nghĩa vụ sau đây: a) Quyền và nghĩa vụ chung quy định  tại Điều 26 và Điều 31 của Luật này; b) Chuyển nhượng quyền sử dụng đất,  tài sản thuộc sở hữu của mình gắn liền với đất trong thời hạn sử dụng đất; c) Cho thuê, cho thuê lại quyền  sử dụng đất, tài sản thuộc sở hữu của mình gắn liền với đất trong thời hạn sử dụng  đất; d) Thế chấp quyền sử dụng đất,  tài sản thuộc sở hữu của mình gắn liền với đất tại các tổ chức tín dụng được  phép hoạt động tại Việt Nam; 4. Tổ chức kinh tế có vốn đầu tư  nước ngoài có sử dụng đất được hình thành do nhà đầu tư nước ngoài mua cổ phần,  phần vốn góp thì có các quyền và nghĩa vụ quy định tại khoản 2 và khoản 3 Điều  này tương ứng với hình thức nộp tiền sử dụng đất, trả tiền thuê đất. 5. Người gốc Việt Nam định cư ở  nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài sử dụng đất để thực hiện các  dự án đầu tư tại Việt Nam được Nhà nước giao đất, cho thuê đất trả tiền thuê đất  một lần cho cả thời gian thuê nhưng được miễn, giảm tiền sử dụng đất, tiền thuê  đất thì có quyền và nghĩa vụ quy định tại khoản 3 Điều 33 của  Luật này.",
+      "difficulty": "hard",
+      "tags": [
+        "so sánh",
+        "Thống kê, kiểm kê đất đai"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "so sánh",
+          "Thống kê, kiểm kê đất đai"
+        ],
+        "must_cite": [
+          "L2013_#22",
+          "L2024_#41"
+        ]
+      }
+    },
+    {
+      "question_id": "Q83",
+      "question": "So sánh nội dung 'Thửa đất chuẩn / thửa đất' giữa Luật Đất đai 2013 (Điều 23) và Luật Đất đai 2024 (Điều 42).",
+      "intent": "comparison",
+      "sub_intent": "general_comparison",
+      "category": [
+        "comparison"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#23"
+        ],
+        "2024": [
+          "L2024_#42"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013:  LĐĐ 2024: 1. Tổ chức kinh tế có vốn đầu tư  nước ngoài nhận góp vốn bằng quyền sử dụng đất có nguồn gốc được Nhà nước giao  có thu tiền sử dụng đất, quyền sử dụng đất được thuê trả tiền thuê đất một lần  cho cả thời gian thuê thì có quyền và nghĩa vụ quy định tại khoản  3 Điều 41 của Luật này. 2. Tổ chức kinh tế có vốn đầu tư  nước ngoài được chuyển đổi từ doanh nghiệp liên doanh mà bên Việt Nam góp vốn bằng  quyền sử dụng đất thì có các quyền và nghĩa vụ sau đây: a) Quyền và nghĩa vụ quy định tại  khoản 2 Điều 41 của Luật này đối với trường hợp quyền sử dụng  đất do nhận góp vốn trước đó không thuộc trường hợp được sử dụng để thực hiện  các dự án đầu tư nhà ở để bán và tổ chức kinh tế có vốn đầu tư nước ngoài được  Nhà nước cho thuê đất thu tiền thuê đất hằng năm theo quy định của Luật này; b) Quyền và nghĩa vụ quy định tại  khoản 3 Điều 41 của Luật này đối với trường hợp quyền sử dụng  đất do nhận góp vốn trước đó không thuộc trường hợp được sử dụng để thực hiện  các dự án đầu tư nhà ở để bán và tổ chức kinh tế có vốn đầu tư nước ngoài được  Nhà nước cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê theo quy  định của Luật này; c) Quyền và nghĩa vụ quy định tại  khoản 3 Điều 41 của Luật này đối với trường hợp quyền sử dụng  đất do nhận góp vốn trước đó được sử dụng để thực hiện các dự án đầu tư nhà ở để  bán và tổ chức kinh tế có vốn đầu tư nước ngoài được Nhà nước giao đất có thu  tiền sử dụng đất theo quy định của Luật này. 3. Doanh nghiệp nhà nước được  Nhà nước cho thuê đất trước ngày 01 tháng 7 năm 2004 mà được sử dụng giá trị  quyền sử dụng đất như ngân sách nhà nước cấp cho doanh nghiệp, không phải ghi  nhận nợ và không phải hoàn trả tiền thuê đất theo quy định của pháp luật về đất  đai góp vốn liên doanh với tổ chức nước ngoài, cá nhân nước ngoài thì doanh  nghiệp liên doanh có quyền, nghĩa vụ quy định tại khoản 1 và  khoản 3 Điều 33 của Luật này. Giá trị quyền sử dụng đất là phần vốn của Nhà  nước đóng góp vào doanh nghiệp liên doanh.",
+      "difficulty": "hard",
+      "tags": [
+        "so sánh",
+        "Thửa đất chuẩn / thửa đất"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "so sánh",
+          "Thửa đất chuẩn / thửa đất"
+        ],
+        "must_cite": [
+          "L2013_#23",
+          "L2024_#42"
+        ]
+      }
+    },
+    {
+      "question_id": "Q84",
+      "question": "Cho biết và so sánh định nghĩa trong Luật Đất đai 2013 và 2024 về: \"1\"?",
+      "intent": "definition",
+      "sub_intent": "compare_definition",
+      "category": [
+        "definition",
+        "term"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#3_1"
+        ],
+        "2024": [
+          "L2024_#3_1"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 1. Thửa đất là phần diện  tích đất được giới hạn bởi ranh giới xác định trên thực địa hoặc được mô tả  trên hồ sơ. LĐĐ 2024: 1. Bản đồ địa chính là bản  đồ thể hiện các thửa đất và các đối tượng địa lý có liên quan, lập theo đơn vị  hành chính cấp xã hoặc theo đơn vị hành chính cấp huyện nơi không thành lập đơn  vị hành chính cấp xã, được cơ quan nhà nước có thẩm quyền xác nhận.",
+      "difficulty": "easy",
+      "tags": [
+        "định nghĩa",
+        "giải thích từ ngữ"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "1."
+        ],
+        "must_cite": [
+          "L2013_#3_1",
+          "L2024_#3_1"
+        ]
+      }
+    },
+    {
+      "question_id": "Q85",
+      "question": "Cho biết và so sánh định nghĩa trong Luật Đất đai 2013 và 2024 về: \"1\"?",
+      "intent": "definition",
+      "sub_intent": "compare_definition",
+      "category": [
+        "definition",
+        "term"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#3_1"
+        ],
+        "2024": [
+          "L2024_#3_1"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 1. Thửa đất là phần diện  tích đất được giới hạn bởi ranh giới xác định trên thực địa hoặc được mô tả  trên hồ sơ. LĐĐ 2024: 1. Bản đồ địa chính là bản  đồ thể hiện các thửa đất và các đối tượng địa lý có liên quan, lập theo đơn vị  hành chính cấp xã hoặc theo đơn vị hành chính cấp huyện nơi không thành lập đơn  vị hành chính cấp xã, được cơ quan nhà nước có thẩm quyền xác nhận.",
+      "difficulty": "easy",
+      "tags": [
+        "định nghĩa",
+        "giải thích từ ngữ"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "1."
+        ],
+        "must_cite": [
+          "L2013_#3_1",
+          "L2024_#3_1"
+        ]
+      }
+    },
+    {
+      "question_id": "Q86",
+      "question": "Cho biết và so sánh định nghĩa trong Luật Đất đai 2013 và 2024 về: \"1\"?",
+      "intent": "definition",
+      "sub_intent": "compare_definition",
+      "category": [
+        "definition",
+        "term"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#3_1"
+        ],
+        "2024": [
+          "L2024_#3_1"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 1. Thửa đất là phần diện  tích đất được giới hạn bởi ranh giới xác định trên thực địa hoặc được mô tả  trên hồ sơ. LĐĐ 2024: 1. Bản đồ địa chính là bản  đồ thể hiện các thửa đất và các đối tượng địa lý có liên quan, lập theo đơn vị  hành chính cấp xã hoặc theo đơn vị hành chính cấp huyện nơi không thành lập đơn  vị hành chính cấp xã, được cơ quan nhà nước có thẩm quyền xác nhận.",
+      "difficulty": "easy",
+      "tags": [
+        "định nghĩa",
+        "giải thích từ ngữ"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "1."
+        ],
+        "must_cite": [
+          "L2013_#3_1",
+          "L2024_#3_1"
+        ]
+      }
+    },
+    {
+      "question_id": "Q87",
+      "question": "Cho biết và so sánh định nghĩa trong Luật Đất đai 2013 và 2024 về: \"1\"?",
+      "intent": "definition",
+      "sub_intent": "compare_definition",
+      "category": [
+        "definition",
+        "term"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#3_1"
+        ],
+        "2024": [
+          "L2024_#3_1"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 1. Thửa đất là phần diện  tích đất được giới hạn bởi ranh giới xác định trên thực địa hoặc được mô tả  trên hồ sơ. LĐĐ 2024: 1. Bản đồ địa chính là bản  đồ thể hiện các thửa đất và các đối tượng địa lý có liên quan, lập theo đơn vị  hành chính cấp xã hoặc theo đơn vị hành chính cấp huyện nơi không thành lập đơn  vị hành chính cấp xã, được cơ quan nhà nước có thẩm quyền xác nhận.",
+      "difficulty": "easy",
+      "tags": [
+        "định nghĩa",
+        "giải thích từ ngữ"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "1."
+        ],
+        "must_cite": [
+          "L2013_#3_1",
+          "L2024_#3_1"
+        ]
+      }
+    },
+    {
+      "question_id": "Q88",
+      "question": "Cho biết và so sánh định nghĩa trong Luật Đất đai 2013 và 2024 về: \"1\"?",
+      "intent": "definition",
+      "sub_intent": "compare_definition",
+      "category": [
+        "definition",
+        "term"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#3_1"
+        ],
+        "2024": [
+          "L2024_#3_1"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 1. Thửa đất là phần diện  tích đất được giới hạn bởi ranh giới xác định trên thực địa hoặc được mô tả  trên hồ sơ. LĐĐ 2024: 1. Bản đồ địa chính là bản  đồ thể hiện các thửa đất và các đối tượng địa lý có liên quan, lập theo đơn vị  hành chính cấp xã hoặc theo đơn vị hành chính cấp huyện nơi không thành lập đơn  vị hành chính cấp xã, được cơ quan nhà nước có thẩm quyền xác nhận.",
+      "difficulty": "easy",
+      "tags": [
+        "định nghĩa",
+        "giải thích từ ngữ"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "1."
+        ],
+        "must_cite": [
+          "L2013_#3_1",
+          "L2024_#3_1"
+        ]
+      }
+    },
+    {
+      "question_id": "Q89",
+      "question": "Cho biết và so sánh định nghĩa trong Luật Đất đai 2013 và 2024 về: \"1\"?",
+      "intent": "definition",
+      "sub_intent": "compare_definition",
+      "category": [
+        "definition",
+        "term"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#3_1"
+        ],
+        "2024": [
+          "L2024_#3_1"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 1. Thửa đất là phần diện  tích đất được giới hạn bởi ranh giới xác định trên thực địa hoặc được mô tả  trên hồ sơ. LĐĐ 2024: 1. Bản đồ địa chính là bản  đồ thể hiện các thửa đất và các đối tượng địa lý có liên quan, lập theo đơn vị  hành chính cấp xã hoặc theo đơn vị hành chính cấp huyện nơi không thành lập đơn  vị hành chính cấp xã, được cơ quan nhà nước có thẩm quyền xác nhận.",
+      "difficulty": "easy",
+      "tags": [
+        "định nghĩa",
+        "giải thích từ ngữ"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "1."
+        ],
+        "must_cite": [
+          "L2013_#3_1",
+          "L2024_#3_1"
+        ]
+      }
+    },
+    {
+      "question_id": "Q90",
+      "question": "Cho biết và so sánh định nghĩa trong Luật Đất đai 2013 và 2024 về: \"1\"?",
+      "intent": "definition",
+      "sub_intent": "compare_definition",
+      "category": [
+        "definition",
+        "term"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#3_1"
+        ],
+        "2024": [
+          "L2024_#3_1"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 1. Thửa đất là phần diện  tích đất được giới hạn bởi ranh giới xác định trên thực địa hoặc được mô tả  trên hồ sơ. LĐĐ 2024: 1. Bản đồ địa chính là bản  đồ thể hiện các thửa đất và các đối tượng địa lý có liên quan, lập theo đơn vị  hành chính cấp xã hoặc theo đơn vị hành chính cấp huyện nơi không thành lập đơn  vị hành chính cấp xã, được cơ quan nhà nước có thẩm quyền xác nhận.",
+      "difficulty": "easy",
+      "tags": [
+        "định nghĩa",
+        "giải thích từ ngữ"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "1."
+        ],
+        "must_cite": [
+          "L2013_#3_1",
+          "L2024_#3_1"
+        ]
+      }
+    },
+    {
+      "question_id": "Q91",
+      "question": "Cho biết và so sánh định nghĩa trong Luật Đất đai 2013 và 2024 về: \"1\"?",
+      "intent": "definition",
+      "sub_intent": "compare_definition",
+      "category": [
+        "definition",
+        "term"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#3_1"
+        ],
+        "2024": [
+          "L2024_#3_1"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 1. Thửa đất là phần diện  tích đất được giới hạn bởi ranh giới xác định trên thực địa hoặc được mô tả  trên hồ sơ. LĐĐ 2024: 1. Bản đồ địa chính là bản  đồ thể hiện các thửa đất và các đối tượng địa lý có liên quan, lập theo đơn vị  hành chính cấp xã hoặc theo đơn vị hành chính cấp huyện nơi không thành lập đơn  vị hành chính cấp xã, được cơ quan nhà nước có thẩm quyền xác nhận.",
+      "difficulty": "easy",
+      "tags": [
+        "định nghĩa",
+        "giải thích từ ngữ"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "1."
+        ],
+        "must_cite": [
+          "L2013_#3_1",
+          "L2024_#3_1"
+        ]
+      }
+    },
+    {
+      "question_id": "Q92",
+      "question": "Cho biết và so sánh định nghĩa trong Luật Đất đai 2013 và 2024 về: \"1\"?",
+      "intent": "definition",
+      "sub_intent": "compare_definition",
+      "category": [
+        "definition",
+        "term"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#3_1"
+        ],
+        "2024": [
+          "L2024_#3_1"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 1. Thửa đất là phần diện  tích đất được giới hạn bởi ranh giới xác định trên thực địa hoặc được mô tả  trên hồ sơ. LĐĐ 2024: 1. Bản đồ địa chính là bản  đồ thể hiện các thửa đất và các đối tượng địa lý có liên quan, lập theo đơn vị  hành chính cấp xã hoặc theo đơn vị hành chính cấp huyện nơi không thành lập đơn  vị hành chính cấp xã, được cơ quan nhà nước có thẩm quyền xác nhận.",
+      "difficulty": "easy",
+      "tags": [
+        "định nghĩa",
+        "giải thích từ ngữ"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "1."
+        ],
+        "must_cite": [
+          "L2013_#3_1",
+          "L2024_#3_1"
+        ]
+      }
+    },
+    {
+      "question_id": "Q93",
+      "question": "Cho biết và so sánh định nghĩa trong Luật Đất đai 2013 và 2024 về: \"1\"?",
+      "intent": "definition",
+      "sub_intent": "compare_definition",
+      "category": [
+        "definition",
+        "term"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#3_1"
+        ],
+        "2024": [
+          "L2024_#3_1"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 1. Thửa đất là phần diện  tích đất được giới hạn bởi ranh giới xác định trên thực địa hoặc được mô tả  trên hồ sơ. LĐĐ 2024: 1. Bản đồ địa chính là bản  đồ thể hiện các thửa đất và các đối tượng địa lý có liên quan, lập theo đơn vị  hành chính cấp xã hoặc theo đơn vị hành chính cấp huyện nơi không thành lập đơn  vị hành chính cấp xã, được cơ quan nhà nước có thẩm quyền xác nhận.",
+      "difficulty": "easy",
+      "tags": [
+        "định nghĩa",
+        "giải thích từ ngữ"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "1."
+        ],
+        "must_cite": [
+          "L2013_#3_1",
+          "L2024_#3_1"
+        ]
+      }
+    },
+    {
+      "question_id": "Q94",
+      "question": "Cho biết và so sánh định nghĩa trong Luật Đất đai 2013 và 2024 về: \"1\"?",
+      "intent": "definition",
+      "sub_intent": "compare_definition",
+      "category": [
+        "definition",
+        "term"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#3_1"
+        ],
+        "2024": [
+          "L2024_#3_1"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 1. Thửa đất là phần diện  tích đất được giới hạn bởi ranh giới xác định trên thực địa hoặc được mô tả  trên hồ sơ. LĐĐ 2024: 1. Bản đồ địa chính là bản  đồ thể hiện các thửa đất và các đối tượng địa lý có liên quan, lập theo đơn vị  hành chính cấp xã hoặc theo đơn vị hành chính cấp huyện nơi không thành lập đơn  vị hành chính cấp xã, được cơ quan nhà nước có thẩm quyền xác nhận.",
+      "difficulty": "easy",
+      "tags": [
+        "định nghĩa",
+        "giải thích từ ngữ"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "1."
+        ],
+        "must_cite": [
+          "L2013_#3_1",
+          "L2024_#3_1"
+        ]
+      }
+    },
+    {
+      "question_id": "Q95",
+      "question": "Cho biết và so sánh định nghĩa trong Luật Đất đai 2013 và 2024 về: \"1\"?",
+      "intent": "definition",
+      "sub_intent": "compare_definition",
+      "category": [
+        "definition",
+        "term"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#3_1"
+        ],
+        "2024": [
+          "L2024_#3_1"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 1. Thửa đất là phần diện  tích đất được giới hạn bởi ranh giới xác định trên thực địa hoặc được mô tả  trên hồ sơ. LĐĐ 2024: 1. Bản đồ địa chính là bản  đồ thể hiện các thửa đất và các đối tượng địa lý có liên quan, lập theo đơn vị  hành chính cấp xã hoặc theo đơn vị hành chính cấp huyện nơi không thành lập đơn  vị hành chính cấp xã, được cơ quan nhà nước có thẩm quyền xác nhận.",
+      "difficulty": "easy",
+      "tags": [
+        "định nghĩa",
+        "giải thích từ ngữ"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "1."
+        ],
+        "must_cite": [
+          "L2013_#3_1",
+          "L2024_#3_1"
+        ]
+      }
+    },
+    {
+      "question_id": "Q96",
+      "question": "Cho biết và so sánh định nghĩa trong Luật Đất đai 2013 và 2024 về: \"1\"?",
+      "intent": "definition",
+      "sub_intent": "compare_definition",
+      "category": [
+        "definition",
+        "term"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#3_1"
+        ],
+        "2024": [
+          "L2024_#3_1"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 1. Thửa đất là phần diện  tích đất được giới hạn bởi ranh giới xác định trên thực địa hoặc được mô tả  trên hồ sơ. LĐĐ 2024: 1. Bản đồ địa chính là bản  đồ thể hiện các thửa đất và các đối tượng địa lý có liên quan, lập theo đơn vị  hành chính cấp xã hoặc theo đơn vị hành chính cấp huyện nơi không thành lập đơn  vị hành chính cấp xã, được cơ quan nhà nước có thẩm quyền xác nhận.",
+      "difficulty": "easy",
+      "tags": [
+        "định nghĩa",
+        "giải thích từ ngữ"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "1."
+        ],
+        "must_cite": [
+          "L2013_#3_1",
+          "L2024_#3_1"
+        ]
+      }
+    },
+    {
+      "question_id": "Q97",
+      "question": "Cho biết và so sánh định nghĩa trong Luật Đất đai 2013 và 2024 về: \"1\"?",
+      "intent": "definition",
+      "sub_intent": "compare_definition",
+      "category": [
+        "definition",
+        "term"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#3_1"
+        ],
+        "2024": [
+          "L2024_#3_1"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 1. Thửa đất là phần diện  tích đất được giới hạn bởi ranh giới xác định trên thực địa hoặc được mô tả  trên hồ sơ. LĐĐ 2024: 1. Bản đồ địa chính là bản  đồ thể hiện các thửa đất và các đối tượng địa lý có liên quan, lập theo đơn vị  hành chính cấp xã hoặc theo đơn vị hành chính cấp huyện nơi không thành lập đơn  vị hành chính cấp xã, được cơ quan nhà nước có thẩm quyền xác nhận.",
+      "difficulty": "easy",
+      "tags": [
+        "định nghĩa",
+        "giải thích từ ngữ"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "1."
+        ],
+        "must_cite": [
+          "L2013_#3_1",
+          "L2024_#3_1"
+        ]
+      }
+    },
+    {
+      "question_id": "Q98",
+      "question": "Cho biết và so sánh định nghĩa trong Luật Đất đai 2013 và 2024 về: \"1\"?",
+      "intent": "definition",
+      "sub_intent": "compare_definition",
+      "category": [
+        "definition",
+        "term"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#3_1"
+        ],
+        "2024": [
+          "L2024_#3_1"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 1. Thửa đất là phần diện  tích đất được giới hạn bởi ranh giới xác định trên thực địa hoặc được mô tả  trên hồ sơ. LĐĐ 2024: 1. Bản đồ địa chính là bản  đồ thể hiện các thửa đất và các đối tượng địa lý có liên quan, lập theo đơn vị  hành chính cấp xã hoặc theo đơn vị hành chính cấp huyện nơi không thành lập đơn  vị hành chính cấp xã, được cơ quan nhà nước có thẩm quyền xác nhận.",
+      "difficulty": "easy",
+      "tags": [
+        "định nghĩa",
+        "giải thích từ ngữ"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "1."
+        ],
+        "must_cite": [
+          "L2013_#3_1",
+          "L2024_#3_1"
+        ]
+      }
+    },
+    {
+      "question_id": "Q99",
+      "question": "Cho biết và so sánh định nghĩa trong Luật Đất đai 2013 và 2024 về: \"1\"?",
+      "intent": "definition",
+      "sub_intent": "compare_definition",
+      "category": [
+        "definition",
+        "term"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#3_1"
+        ],
+        "2024": [
+          "L2024_#3_1"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 1. Thửa đất là phần diện  tích đất được giới hạn bởi ranh giới xác định trên thực địa hoặc được mô tả  trên hồ sơ. LĐĐ 2024: 1. Bản đồ địa chính là bản  đồ thể hiện các thửa đất và các đối tượng địa lý có liên quan, lập theo đơn vị  hành chính cấp xã hoặc theo đơn vị hành chính cấp huyện nơi không thành lập đơn  vị hành chính cấp xã, được cơ quan nhà nước có thẩm quyền xác nhận.",
+      "difficulty": "easy",
+      "tags": [
+        "định nghĩa",
+        "giải thích từ ngữ"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "1."
+        ],
+        "must_cite": [
+          "L2013_#3_1",
+          "L2024_#3_1"
+        ]
+      }
+    },
+    {
+      "question_id": "Q100",
+      "question": "Cho biết và so sánh định nghĩa trong Luật Đất đai 2013 và 2024 về: \"1\"?",
+      "intent": "definition",
+      "sub_intent": "compare_definition",
+      "category": [
+        "definition",
+        "term"
+      ],
+      "expected_articles": {
+        "2013": [
+          "L2013_#3_1"
+        ],
+        "2024": [
+          "L2024_#3_1"
+        ]
+      },
+      "expected_answer": "LĐĐ 2013: 1. Thửa đất là phần diện  tích đất được giới hạn bởi ranh giới xác định trên thực địa hoặc được mô tả  trên hồ sơ. LĐĐ 2024: 1. Bản đồ địa chính là bản  đồ thể hiện các thửa đất và các đối tượng địa lý có liên quan, lập theo đơn vị  hành chính cấp xã hoặc theo đơn vị hành chính cấp huyện nơi không thành lập đơn  vị hành chính cấp xã, được cơ quan nhà nước có thẩm quyền xác nhận.",
+      "difficulty": "easy",
+      "tags": [
+        "định nghĩa",
+        "giải thích từ ngữ"
+      ],
+      "validation_criteria": {
+        "must_mention": [
+          "1."
+        ],
+        "must_cite": [
+          "L2013_#3_1",
+          "L2024_#3_1"
+        ]
+      }
+    }
+  ]
+}
